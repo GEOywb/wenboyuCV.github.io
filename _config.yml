@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
-title                    : "于文博"
+locale                   : "en-US"
+title                    : "Yu Wenbo"
 title_separator          : "-"
 name                     : &name "Yu Wenbo"
 description              : &description "Yu Wenbo"
