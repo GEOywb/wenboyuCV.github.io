@@ -12,7 +12,7 @@ title                    : "于文博"
 title_separator          : "-"
 name                     : &name "Yu Wenbo"
 description              : &description "Yu Wenbo"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wenboyuCV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
