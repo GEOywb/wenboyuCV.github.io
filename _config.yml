@@ -75,10 +75,6 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-<span id="busuanzi_container_site_pv">    
-	总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
-
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
