@@ -36,7 +36,8 @@ redirect_from:
 2. 江苏省科协青年科技人才托举工程，省部级，2024-09-01
 3. 苏州市科协青年科技人才托举工程，市厅级，2024-06-01
 4. 江苏省“双创博士”，2022-11-01
-5. “课程思政”教学比赛三等奖，2023-12-15
+5. 苏州市自然科学优秀学术论文三等奖，2024-9-1
+6. “课程思政”教学比赛三等奖，2023-12-15
 
 社会职务
 ======
@@ -56,14 +57,14 @@ redirect_from:
 论文
 ======
 **2024年**  
-* [1] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2024.3436117
+* [1] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," IEEE Transactions on Instrumentation and Measurement, 2024, doi: 10.1109/TIM.2024.3436117
 * [2] **Wenbo Yu**, He Huang*, Yi Shen and Gangxiang Shen, "Crossmodal Sequential Interaction Network for Hyperspectral and LiDAR Data Joint Classification," IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, doi: 10.1109/LGRS.2024.3365715
 * [3] **Wenbo Yu**, Fenghua Huang*, "DMSCA: Deep Multi-Scale Crossmodal Attention Network for Hyperspectral and LiDAR Data Fusion and Joint Classification", Journal of Applied Remote Sensing, 2024
 
 **2023年**  
 * [4] **Wenbo Yu**, He Huang*, Miao Zhang, Yi Shen and Gangxiang Shen, "Shadow Mask-Driven Multimodal Intrinsic Image Decomposition for Hyperspectral and LiDAR Data Fusion," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3319812
 * [5] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "HI2D2FNet: Hyperspectral Intrinsic Image Decomposition Guided Data Fusion Network for Hyperspectral and LiDAR Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3308109 **[苏州市自然科学优秀学术论文三等奖]**
-* [6] Weixin Ding, **Wenbo Yu***, "Targeted Self-supervised Attention Network for Coronavirus Disease 2019 Detection", Journal of Electronic Imaging, vol. 32, No. 3, pp. 033008, doi: 10.1117/1.JEI.32.3.033008
+* [6] Weixin Ding, **Wenbo Yu***, "Targeted Self-supervised Attention Network for Coronavirus Disease 2019 Detection", Journal of Electronic Imaging, vol. 32, No. 3, pp. 033008, 2023, doi: 10.1117/1.JEI.32.3.033008
 * [7] Huanhuan Li, **Wenbo Yu**, He Huang*, "Strengthening Transferability of Adversarial Examples by Adaptive Inertia and Amplitude Spectrum Dropout", Neural Networks, pp. 925-937, 2023, doi: 10.1016/j.neunet.2023.06.031
 
 **2022年**  
@@ -73,7 +74,7 @@ redirect_from:
 * [11] **Wenbo Yu**, Miao Zhang, He Huang*, Yi Shen, Gangxiang Shen, "Learning Latent Local Manifold Embeddings for Hyperspectral Feature Extraction", Journal of Applied Remote Sensing, vol. 16, No. 3, pp. 036513, 2022, doi: 10.1117/1.JRS.16.036513
 
 **2021年**  
-* [12] **Wenbo Yu**, Miao Zhang*, Zhi He and Yi Shen, "Convolutional Two-Stream Generative Adversarial Network-Based Hyperspectral Feature Extraction," IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-10, 2022,, doi: 10.1109/TGRS.2021.3073924
+* [12] **Wenbo Yu**, Miao Zhang*, Zhi He and Yi Shen, "Convolutional Two-Stream Generative Adversarial Network-Based Hyperspectral Feature Extraction," IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-10, 2022, doi: 10.1109/TGRS.2021.3073924
 * [13] **Wenbo Yu**, Ahmed Mahfouz*, Marcel J. T. Reinders*, "CBA: Cluster-Guided Batch Alignment for Single Cell RNA-seq", Frontiers in Genetics, vol. 12, 2021, doi: 10.3389/fgene.2021.644211
 
 **2020年**  
