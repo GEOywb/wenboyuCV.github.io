@@ -24,7 +24,8 @@ author:
   avatar           : "photo.png"
   name             : "于文博"
   pronouns         : # example: "she/her"  
-  bio              : "办公地点：电子信息楼428室  联系电话：18846415026"
+  bio              : "办公地点：电子信息楼428室"
+  bio              : "联系电话：18846415026"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
