@@ -87,14 +87,17 @@ redirect_from:
 * [16] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Combined FATEMD-based Band Selection Method for Hyperspectral Images", IET Image Processing, vol. 13, No. 2, pp. 287-298, 2018, doi: 10.1049/iet-ipr.2018.5550
 
 **会议**  
-* [1] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," Chinese Control Conference (CCC), Tianjin, China, pp. 7417-7420, 2023, doi: 10.23919/CCC58697.2023.10240536
-* [2] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 3555-3558, 2018, doi: 10.1109/IGARSS.2018.8517528
-* [3] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," Chinese Control Conference (CCC), Dalian, China, pp. 11468-11471, 2017, doi: 10.23919/ChiCC.2017.8029188
-* [4] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," Data Driven Control and Learning Systems Conference (DDCLS), Xiangtan, China, pp. 1233-1238, 2023, doi: 10.1109/DDCLS58216.2023.10166210
-* [5] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 4701-4704, 2018, doi: 10.1109/IGARSS.2018.8518164
-* [6] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", Chinese Society for Optical Engineering Conferences, 2017
-* [7] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, pp. 5075-5078, 2016, doi: 10.1109/IGARSS.2016.7730323
-* [8] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，上海航天，pp. 27-32，2017
+* [1] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," Chinese Control Conference (CCC), Kunming, China, 2024.
+* [2] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for
+Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference (CCC), Kunming, China, 2024.
+* [3] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," Chinese Control Conference (CCC), Tianjin, China, pp. 7417-7420, 2023, doi: 10.23919/CCC58697.2023.10240536
+* [4] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 3555-3558, 2018, doi: 10.1109/IGARSS.2018.8517528
+* [5] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," Chinese Control Conference (CCC), Dalian, China, pp. 11468-11471, 2017, doi: 10.23919/ChiCC.2017.8029188
+* [6] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," Data Driven Control and Learning Systems Conference (DDCLS), Xiangtan, China, pp. 1233-1238, 2023, doi: 10.1109/DDCLS58216.2023.10166210
+* [7] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 4701-4704, 2018, doi: 10.1109/IGARSS.2018.8518164
+* [8] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", Chinese Society for Optical Engineering Conferences, 2017
+* [9] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, pp. 5075-5078, 2016, doi: 10.1109/IGARSS.2016.7730323
+* [10] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，上海航天，pp. 27-32，2017
 
 专利与软著
 ======
