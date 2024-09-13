@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-苏州大学电子信息学院讲师，硕士生导师，江苏省双创博士，江苏省科协青托工程对象，苏州市科协青托工程对象，2016年于哈尔滨工业大学航天学院自动化专业获学士学位，2021年于哈尔滨工业大学航天学院控制科学与工程专业获博士学位（硕博连读，沈毅教授团队），2019年-2020年于荷兰代尔夫特理工大学EEMCS学院博士联合培养（Marcel J.T. Reinders教授与Ahmed Mahfouz助理教授团队），2021年加入苏州大学电子信息学院黄鹤教授团队, **每年招收研究生2人**。
+苏州大学电子信息学院讲师，硕士生导师，江苏省双创博士，江苏省科协青托工程对象，苏州市科协青托工程对象，2016年于哈尔滨工业大学航天学院自动化专业获学士学位，2021年于哈尔滨工业大学航天学院控制科学与工程专业获博士学位（硕博连读，沈毅教授团队），2019年-2020年于荷兰代尔夫特理工大学EEMCS学院博士联合培养（Marcel J.T. Reinders教授与Ahmed Mahfouz助理教授团队），2021年加入苏州大学电子信息学院黄鹤教授团队, **每年招收硕士研究生2人**。
 
 教育经历
 ======
@@ -36,8 +36,9 @@ redirect_from:
 2. 江苏省科协青年科技人才托举工程，省部级，2024-09-01
 3. 苏州市科协青年科技人才托举工程，市厅级，2024-06-01
 4. 江苏省“双创博士”，2022-11-01
-5. 苏州市自然科学优秀学术论文三等奖，2024-9-1
-6. “课程思政”教学比赛三等奖，2023-12-15
+5. 2022-2023年度苏州市自然科学优秀学术论文三等奖，2024-9-1
+6. 2023年度学院发展贡献奖教金，2024-03-01
+7. “课程思政”教学比赛三等奖，2023-12-15
 
 社会职务
 ======
@@ -52,7 +53,7 @@ redirect_from:
 3. 高分遥感图像处理 VHR remote sensing image processing
 4. 遥感图像目标/异常检测 Remote sensing image target/anomaly detection
 5. 模式识别与机器学习 Pattern recognition and machine learning
-6. 遥感图像去云雾/阴影 Remote sensing image cloud/shadow removal
+6. 光谱重建 Spectral reconstruction
 
 论文
 ======
@@ -63,7 +64,7 @@ redirect_from:
 
 **2023年**  
 * [4] **Wenbo Yu**, He Huang*, Miao Zhang, Yi Shen and Gangxiang Shen, "Shadow Mask-Driven Multimodal Intrinsic Image Decomposition for Hyperspectral and LiDAR Data Fusion," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3319812
-* [5] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "HI2D2FNet: Hyperspectral Intrinsic Image Decomposition Guided Data Fusion Network for Hyperspectral and LiDAR Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3308109 **[苏州市自然科学优秀学术论文三等奖]**
+* [5] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "HI2D2FNet: Hyperspectral Intrinsic Image Decomposition Guided Data Fusion Network for Hyperspectral and LiDAR Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3308109 **[2022-2023年度苏州市自然科学优秀学术论文三等奖]**
 * [6] Weixin Ding, **Wenbo Yu***, "Targeted Self-supervised Attention Network for Coronavirus Disease 2019 Detection", Journal of Electronic Imaging, vol. 32, No. 3, pp. 033008, 2023, doi: 10.1117/1.JEI.32.3.033008
 * [7] Huanhuan Li, **Wenbo Yu**, He Huang*, "Strengthening Transferability of Adversarial Examples by Adaptive Inertia and Amplitude Spectrum Dropout", Neural Networks, pp. 925-937, 2023, doi: 10.1016/j.neunet.2023.06.031
 
