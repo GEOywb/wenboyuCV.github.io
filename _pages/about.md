@@ -117,11 +117,11 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 ======
 **2024年**  
 1. 任天鸣：光谱重建
-2. 张洪展：多源遥感图像融合
+2. 张洪展：多源融合
 
 **2023年**  
-1. 魏新桐：多源遥感图像融合
-2. 徐鑫：遥感图像异常检测与解译
+1. 魏新桐：多源融合
+2. 徐鑫：异常检测
 
 本科生活动汇总
 ======
