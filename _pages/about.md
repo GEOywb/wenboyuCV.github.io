@@ -65,8 +65,8 @@ redirect_from:
 * [3] **Wenbo Yu**, Fenghua Huang*, "DMSCA: Deep Multi-Scale Crossmodal Attention Network for Hyperspectral and LiDAR Data Fusion and Joint Classification", Journal of Applied Remote Sensing, 2024
 
 **2023年**  
-* [4] **Wenbo Yu**, He Huang*, Miao Zhang, Yi Shen and Gangxiang Shen, "Shadow Mask-Driven Multimodal Intrinsic Image Decomposition for Hyperspectral and LiDAR Data Fusion," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3319812
-* [5] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "HI2D2FNet: Hyperspectral Intrinsic Image Decomposition Guided Data Fusion Network for Hyperspectral and LiDAR Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3308109 **[2022-2023年度苏州市自然科学优秀学术论文三等奖]**
+* [4] **Wenbo Yu**, He Huang*, Miao Zhang, Yi Shen and Gangxiang Shen, "Shadow Mask-Driven Multimodal Intrinsic Image Decomposition for Hyperspectral and LiDAR Data Fusion," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3319812 [推文](https://mp.weixin.qq.com/s/mUnRz5SRm0Zypk81gsbOxQ)
+* [5] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "HI2D2FNet: Hyperspectral Intrinsic Image Decomposition Guided Data Fusion Network for Hyperspectral and LiDAR Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3308109 **[2022-2023年度苏州市自然科学优秀学术论文三等奖]** [推文](https://mp.weixin.qq.com/s/Nhb3IL3AMKcWxmdC_nZtFw)
 * [6] Weixin Ding, **Wenbo Yu***, "Targeted Self-supervised Attention Network for Coronavirus Disease 2019 Detection", Journal of Electronic Imaging, vol. 32, No. 3, pp. 033008, 2023, doi: 10.1117/1.JEI.32.3.033008
 * [7] Huanhuan Li, **Wenbo Yu**, He Huang*, "Strengthening Transferability of Adversarial Examples by Adaptive Inertia and Amplitude Spectrum Dropout", Neural Networks, pp. 925-937, 2023, doi: 10.1016/j.neunet.2023.06.031
 
