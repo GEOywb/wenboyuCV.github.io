@@ -60,7 +60,7 @@ redirect_from:
 论文
 ======
 **2024年**  
-* [1] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," IEEE Transactions on Instrumentation and Measurement, 2024, doi: 10.1109/TIM.2024.3436117
+* [1] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," IEEE Transactions on Instrumentation and Measurement, 2024, doi: 10.1109/TIM.2024.3436117 [推文](https://mp.weixin.qq.com/s/x-enckAxAcj98RPbdlbhAg)
 * [2] **Wenbo Yu**, He Huang*, Yi Shen and Gangxiang Shen, "Crossmodal Sequential Interaction Network for Hyperspectral and LiDAR Data Joint Classification," IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, doi: 10.1109/LGRS.2024.3365715
 * [3] **Wenbo Yu**, Fenghua Huang*, "DMSCA: Deep Multi-Scale Crossmodal Attention Network for Hyperspectral and LiDAR Data Fusion and Joint Classification", Journal of Applied Remote Sensing, 2024
 
