@@ -51,11 +51,10 @@ redirect_from:
 研究领域
 ======
 1. 多源遥感 Multi-source remote sensing
-2. 高光谱遥感信息处理 Hyperspectral remote sensing information processing
-3. 高分遥感图像处理 VHR remote sensing image processing
-4. 遥感图像目标/异常检测 Remote sensing image target/anomaly detection
-5. 模式识别与机器学习 Pattern recognition and machine learning
-6. 光谱重建 Spectral reconstruction
+2. 高光谱/高分遥感信息处理 Hyperspectral/VHR remote sensing information processing
+3. 模式识别与机器学习 Pattern recognition and machine learning
+4. 光谱重建与生成模型 Spectral reconstruction and generative model
+5. 计算机视觉及机器人控制 Computer vision and robot control 
 
 论文
 ======
