@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8d40156b-a82d-48f6-b85f-4dfac4f32b2d)---
 permalink: /
 title: #"个人简介"
 author_profile: true
