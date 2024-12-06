@@ -129,12 +129,8 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 2023级电信1班班主任
 
 **大学生创新创业项目**  
-1. 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，在研
-2. 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格）
-
-Weixin Ding and Wenbo Yu, Targeted self-supervised attention network for coronavirus disease 2019 detection, Journal of Electronic Imaging, 2023
-
-基于深度学习的COVID-19的检测软件，苏州大学，丁维新，于文博，2023SR0241919
+1. 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，在研，1 IEEE GRSL
+2. 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1专利，1软著
 
 **大学生课外学术科研基金**  
 1. 面向农业病虫害检测的高光谱与激光雷达影像融合分类，第二十六批大学生课外学术科研基金（重点项目），陆银标，徐彤彤，2024，结题（合格）
