@@ -61,7 +61,7 @@ redirect_from:
 **2025年**  
 * [1] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," IEEE Geoscience and Remote Sensing Letters, Early Access, 2025.
 * [2] **Wenbo Yu**, He Huang*, Yi Shen, Lin Sun, Chongran Zhao and Gangxiang Shen, "IamCSC: Intuitive Assimilation Modality Driven
-Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," IEEE Transactions on Geoscience and Remote Sensing, Early Access, 2025.
+Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," IEEE Transactions on Geoscience and Remote Sensing, Early Access, 2025. 
 
 **2024年**  
 * [3] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, doi: 10.1109/TGRS.2024.3504861
