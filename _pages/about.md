@@ -39,14 +39,15 @@ redirect_from:
 3. 苏州市科协青年科技人才托举工程，市厅级，2024-06-01
 4. 江苏省“双创博士”，2022-11-01
 5. 2022-2023年度苏州市自然科学优秀学术论文三等奖，2024-9-1
-6. 2023年度学院发展贡献奖教金，2024-03-01
-7. “课程思政”教学比赛三等奖，2023-12-15
+6. 2024年度学院发展贡献奖教金，2025-01-01
+7. 2023年度学院发展贡献奖教金，2024-03-01
+8. “课程思政”教学比赛三等奖，2023-12-15
 
 社会职务
 ======
 1. 中国图像图形学会CSIG遥感图像专委会成员
 2. IEEE/中国电子学会/中国人工智能学会（青工委CAAI）/中国图像图形学会CSIG/江苏省人工智能学会会员
-3. IEEE TGRS、IEEE GRSL、IEEE TIM、KBS、NN等期刊长期审稿人
+3. IEEE TNNLS、IEEE TGRS、IEEE GRSL、IEEE TIM、KBS、NN等期刊长期审稿人
 
 研究领域
 ======
@@ -59,15 +60,15 @@ redirect_from:
 论文
 ======
 **2025年**  
-* [1] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," IEEE Geoscience and Remote Sensing Letters, Early Access, 2025.
+* [1] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," IEEE Geoscience and Remote Sensing Letters, vol. 22, pp. 1-5, 2025.
 * [2] **Wenbo Yu**, He Huang*, Yi Shen, Lin Sun, Chongran Zhao and Gangxiang Shen, "IamCSC: Intuitive Assimilation Modality Driven
 Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," IEEE Transactions on Geoscience and Remote Sensing, Early Access, 2025. 
 
 **2024年**  
 * [3] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, doi: 10.1109/TGRS.2024.3504861
-* [4] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," IEEE Transactions on Instrumentation and Measurement, 2024, doi: 10.1109/TIM.2024.3436117 [推文](https://mp.weixin.qq.com/s/x-enckAxAcj98RPbdlbhAg)
+* [4] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-16, 2024, doi: 10.1109/TIM.2024.3436117 [推文](https://mp.weixin.qq.com/s/x-enckAxAcj98RPbdlbhAg)
 * [5] **Wenbo Yu**, He Huang*, Yi Shen and Gangxiang Shen, "Crossmodal Sequential Interaction Network for Hyperspectral and LiDAR Data Joint Classification," IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, doi: 10.1109/LGRS.2024.3365715
-* [6] **Wenbo Yu**, Fenghua Huang*, "DMSCA: Deep Multi-Scale Crossmodal Attention Network for Hyperspectral and LiDAR Data Fusion and Joint Classification", Journal of Applied Remote Sensing, 2024
+* [6] **Wenbo Yu**, Fenghua Huang*, "DMSCA: Deep Multi-Scale Crossmodal Attention Network for Hyperspectral and LiDAR Data Fusion and Joint Classification", Journal of Applied Remote Sensing, vol. 18, no. 3, pp. 036505, 2024
 
 **2023年**  
 * [7] **Wenbo Yu**, He Huang*, Miao Zhang, Yi Shen and Gangxiang Shen, "Shadow Mask-Driven Multimodal Intrinsic Image Decomposition for Hyperspectral and LiDAR Data Fusion," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, doi: 10.1109/TGRS.2023.3319812 [推文](https://mp.weixin.qq.com/s/mUnRz5SRm0Zypk81gsbOxQ)
@@ -113,7 +114,7 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 2. 遥感高光谱图像与激光雷达图像融合分类方法及装置，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
 3. 面向遥感领域的高光谱与激光雷达图像融合方法及系统, ZL 2023 1 0162662.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
 4. 一种高光谱图像与激光雷达图像融合分类方法和系统, ZL 2023 1 0765131.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
-5. 一种基于深度学习的肺部CT图像检测系统以及方法, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2024, 授权
+5. 一种基于深度学习的肺部CT图像检测系统以及方法, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2023, 授权
 6. 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, **于文博**, 沈毅, 发明专利, 2021, 授权
 7. 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, **于文博**, 沈毅, 发明专利, 2021, 授权
 8. 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权
