@@ -28,7 +28,7 @@ redirect_from:
 1. 国家自然科学基金青年项目（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持
 2. 江苏省自然科学基金青年项目（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
 3. 遥感科学国家重点实验室开放基金（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授，基金号：OFSLRSS202302，主持
-4. 自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金，基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，主持
+4. 自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金（Technology Innovation Center for Collaborative Applications of Natural Resources Data in GBA, MNR），基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，主持
 5. 福建省空间信息感知与智能处理重点实验室开放基金（Open Project of Fujian Key Laboratory of Spatial Information Perception and Intelligent Processing (Yango University）），城市动态监测中高光谱遥感图像的时空谱协同分类研究，2万，2024.01.01-2025.01.01，合作人：黄风华教授，基金号：FKLSIPIP1014，主持
 6. 江苏省高等学校自然科学研究项目（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持
 7. 苏州市科技发展计划面上项目（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请
@@ -62,8 +62,7 @@ redirect_from:
 ======
 **2025年**  
 * [1] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," IEEE Geoscience and Remote Sensing Letters, vol. 22, pp. 1-5, 2025.
-* [2] **Wenbo Yu**, He Huang*, Yi Shen, Lin Sun, Chongran Zhao and Gangxiang Shen, "IamCSC: Intuitive Assimilation Modality Driven
-Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," IEEE Transactions on Geoscience and Remote Sensing, Early Access, 2025. 
+* [2] **Wenbo Yu**, He Huang*, Yi Shen, Lin Sun, Chongran Zhao and Gangxiang Shen, "IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-13, 2025, doi: 10.1109/TGRS.2025.3540096
 
 **2024年**  
 * [3] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, doi: 10.1109/TGRS.2024.3504861
@@ -111,11 +110,11 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 
 专利与软著
 ======
-1. 一种高光谱特征提取方法、装置及存储介质，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权
-2. 遥感高光谱图像与激光雷达图像融合分类方法及装置，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
-3. 面向遥感领域的高光谱与激光雷达图像融合方法及系统, ZL 2023 1 0162662.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
-4. 一种高光谱图像与激光雷达图像融合分类方法和系统, ZL 2023 1 0765131.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
-5. 一种基于深度学习的肺部CT图像检测系统以及方法, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2023, 授权
+1. 一种高光谱特征提取方法、装置及存储介质（22KJB510042），ZL 2022 1 0277342.2，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权
+2. 遥感高光谱图像与激光雷达图像融合分类方法及装置（22KJB510042），ZL 2022 1 1037953.6，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
+3. 面向遥感领域的高光谱与激光雷达图像融合方法及系统（BK20220486）, ZL 2023 1 0162662.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
+4. 一种高光谱图像与激光雷达图像融合分类方法和系统（BK20220486）, ZL 2023 1 0765131.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
+5. 一种基于深度学习的肺部CT图像检测系统以及方法（BK20220486）, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2023, 授权
 6. 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, **于文博**, 沈毅, 发明专利, 2021, 授权
 7. 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, **于文博**, 沈毅, 发明专利, 2021, 授权
 8. 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权
