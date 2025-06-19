@@ -132,7 +132,7 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 **2023年**  
 1. 魏新桐：多源融合
 * [1] 中科院一区顶刊1篇: Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, doi: 10.1109/TGRS.2024.3504861
-* [2] 省部级项目1项: 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://github.com/GEOywb/wenboyuCV.github.io/raw/master/files/list.pdf" download="list.pdf">公示名单</a>
+* [2] 省部级项目1项: 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://github.com/GEOywb/wenboyuCV.github.io/raw/master/files/2025年江苏省研究生科研创新计划名单.pdf" download="2025年江苏省研究生科研创新计划名单.pdf">公示名单</a>
 2. 徐鑫：异常检测
 
 本科生活动汇总
