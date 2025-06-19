@@ -132,6 +132,12 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 **2023年**  
 1. 魏新桐：多源融合，&emsp;&emsp;1 IEEE TGRS
                    &emsp;&emsp;江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 [名单](https://github.com/GEOywb/wenboyuCV/2025年江苏省研究生科研创新计划名单.pdf)
+
+<div style="margin-left: 1.5em; text-indent: -1.5em;">
+1. 魏新桐：多源融合，<span style="margin-left: 1.5em;">1 IEEE TGRS</span><br>
+  <span style="margin-left: 4.5em;">江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 [名单](https://github.com/GEOywb/wenboyuCV/2025年江苏省研究生科研创新计划名单.pdf)</span>
+</div>
+
 2. 徐鑫：异常检测
 
 本科生活动汇总
