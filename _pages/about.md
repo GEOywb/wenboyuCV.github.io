@@ -100,7 +100,7 @@ redirect_from:
 **2018年**  
 * [21] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Combined FATEMD-based Band Selection Method for Hyperspectral Images", IET Image Processing, vol. 13, No. 2, pp. 287-298, 2018, doi: 10.1049/iet-ipr.2018.5550
 
-**会议**  
+**会议**
 * [1] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," Chinese Control Conference (CCC), Kunming, China, 2024.
 * [2] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for
 Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference (CCC), Kunming, China, 2024.
@@ -116,7 +116,7 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 专利与软著
 ======
 <details>
-<summary><strong>查看专利与软件著作权列表（共14项）</strong></summary>
+<summary><strong>查看专利与软著列表（共14项）</strong></summary>
 <ol>
 <li>[1] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
 <li>[2] 基于自适应L-BFGS算法的高光谱图像分类方法, ZL 2022 1 0133932.8, 苏州大学, 黄鹤, **于文博**, 王俊, 发明专利, 2025, 授权</li>
@@ -196,9 +196,7 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 
 本科生活动汇总
 ======
-<details>
-<summary><strong>2023级电信1班班主任</strong></summary>
-</details>
+2023级电信1班班主任
 
 <details>
 <summary><strong>大学生创新创业项目3项</strong></summary>
