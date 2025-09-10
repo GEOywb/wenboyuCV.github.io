@@ -105,16 +105,16 @@ redirect_from:
 <details>
 <summary><strong>查看会议论文列表（共10篇）</strong></summary>
 <ul>
-<li>[1] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," Chinese Control Conference (CCC), Kunming, China, 2024.</li>
-<li>[2] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference (CCC), Kunming, China, 2024.</li>
-<li>[3] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," Chinese Control Conference (CCC), Tianjin, China, pp. 7417-7420, 2023, doi: 10.23919/CCC58697.2023.10240536</li>
-<li>[4] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 3555-3558, 2018, doi: 10.1109/IGARSS.2018.8517528</li>
-<li>[5] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," Chinese Control Conference (CCC), Dalian, China, pp. 11468-11471, 2017, doi: 10.23919/ChiCC.2017.8029188</li>
-<li>[6] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," Data Driven Control and Learning Systems Conference (DDCLS), Xiangtan, China, pp. 1233-1238, 2023, doi: 10.1109/DDCLS58216.2023.10166210</li>
-<li>[7] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 4701-4704, 2018, doi: 10.1109/IGARSS.2018.8518164</li>
-<li>[8] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", Chinese Society for Optical Engineering Conferences, 2017</li>
-<li>[9] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, pp. 5075-5078, 2016, doi: 10.1109/IGARSS.2016.7730323</li>
-<li>[10] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，上海航天，pp. 27-32，2017</li>
+<li>[1] <strong>Wenbo Yu*</strong>, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," Chinese Control Conference (CCC), Kunming, China, 2024.</li>
+<li>[2] <strong>Wenbo Yu*</strong>, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference (CCC), Kunming, China, 2024.</li>
+<li>[3] <strong>Wenbo Yu*</strong>, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," Chinese Control Conference (CCC), Tianjin, China, pp. 7417-7420, 2023, doi: 10.23919/CCC58697.2023.10240536</li>
+<li>[4] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 3555-3558, 2018, doi: 10.1109/IGARSS.2018.8517528</li>
+<li>[5] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," Chinese Control Conference (CCC), Dalian, China, pp. 11468-11471, 2017, doi: 10.23919/ChiCC.2017.8029188</li>
+<li>[6] Jun Wang, <strong>Wenbo Yu</strong> and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," Data Driven Control and Learning Systems Conference (DDCLS), Xiangtan, China, pp. 1233-1238, 2023, doi: 10.1109/DDCLS58216.2023.10166210</li>
+<li>[7] Miao Zhang*, <strong>Wenbo Yu</strong> and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 4701-4704, 2018, doi: 10.1109/IGARSS.2018.8518164</li>
+<li>[8] Peiyuan Jia, Miao Zhang*, <strong>Wenbo Yu</strong>, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", Chinese Society for Optical Engineering Conferences, 2017</li>
+<li>[9] Peiyuan Jia, Miao Zhang*, <strong>Wenbo Yu</strong>, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, pp. 5075-5078, 2016, doi: 10.1109/IGARSS.2016.7730323</li>
+<li>[10] 张淼*，<strong>于文博</strong>，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，上海航天，pp. 27-32，2017</li>
 </ul>
 </details>
 
@@ -123,20 +123,20 @@ redirect_from:
 <details>
 <summary><strong>查看专利与软著列表（共14项）</strong></summary>
 <ol>
-<li>[1] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
-<li>[2] 基于自适应L-BFGS算法的高光谱图像分类方法, ZL 2022 1 0133932.8, 苏州大学, 黄鹤, **于文博**, 王俊, 发明专利, 2025, 授权</li>
-<li>[3] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
-<li>[4] 基于多层次变分自动编码器的高光谱图像特征提取方法, ZL 2021 1 1627432.1, 苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
-<li>[5] 一种 Gerber 文件中元器件同步缩放与快速定位方法, ZL 2024 1 0488096.4, 苏州大学, 沈纲祥, **于文博**, 发明专利, 2025, 授权</li>
-<li>[6] 一种高光谱特征提取方法、装置及存储介质（22KJB510042）, ZL 2022 1 0277342.2，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
-<li>[7] 遥感高光谱图像与激光雷达图像融合分类方法及装置（22KJB510042）, ZL 2022 1 1037953.6，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
-<li>[8] 面向遥感领域的高光谱与激光雷达图像融合方法及系统（BK20220486）, ZL 2023 1 0162662.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
-<li>[9] 一种高光谱图像与激光雷达图像融合分类方法和系统（BK20220486）, ZL 2023 1 0765131.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
-<li>[10] 一种基于深度学习的肺部CT图像检测系统以及方法（BK20220486）, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2023, 授权</li>
-<li>[11] 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, **于文博**, 沈毅, 发明专利, 2021, 授权</li>
-<li>[12] 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, **于文博**, 沈毅, 发明专利, 2021, 授权</li>
-<li>[13] 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权</li>
-<li>[14] 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, **于文博**, 软著, 2023, 授权</li>
+<li>[1] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, <strong>于文博</strong>, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
+<li>[2] 基于自适应L-BFGS算法的高光谱图像分类方法, ZL 2022 1 0133932.8, 苏州大学, 黄鹤, <strong>于文博</strong>, 王俊, 发明专利, 2025, 授权</li>
+<li>[3] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, <strong>于文博</strong>, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
+<li>[4] 基于多层次变分自动编码器的高光谱图像特征提取方法, ZL 2021 1 1627432.1, 苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
+<li>[5] 一种 Gerber 文件中元器件同步缩放与快速定位方法, ZL 2024 1 0488096.4, 苏州大学, 沈纲祥, <strong>于文博</strong>, 发明专利, 2025, 授权</li>
+<li>[6] 一种高光谱特征提取方法、装置及存储介质（22KJB510042）, ZL 2022 1 0277342.2，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
+<li>[7] 遥感高光谱图像与激光雷达图像融合分类方法及装置（22KJB510042）, ZL 2022 1 1037953.6，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
+<li>[8] 面向遥感领域的高光谱与激光雷达图像融合方法及系统（BK20220486）, ZL 2023 1 0162662.8，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
+<li>[9] 一种高光谱图像与激光雷达图像融合分类方法和系统（BK20220486）, ZL 2023 1 0765131.8，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
+<li>[10] 一种基于深度学习的肺部CT图像检测系统以及方法（BK20220486）, ZL 2023 1 0326740.3，苏州大学, <strong>于文博</strong>, 丁维新, 发明专利, 2023, 授权</li>
+<li>[11] 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, <strong>于文博</strong>, 沈毅, 发明专利, 2021, 授权</li>
+<li>[12] 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, <strong>于文博</strong>, 沈毅, 发明专利, 2021, 授权</li>
+<li>[13] 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, <strong>于文博</strong>, 软著, 2024, 授权</li>
+<li>[14] 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, <strong>于文博</strong>, 软著, 2023, 授权</li>
 </ol>
 </details>
 
