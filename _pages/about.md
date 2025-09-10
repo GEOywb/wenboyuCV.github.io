@@ -137,11 +137,11 @@ redirect_from:
 - **彭飞**
 - **左天舒**
 
-### 2024级（2人）
+**2024级（2人）**
 - **任天鸣**：光谱重建
 - **张洪展**：多源融合
 
-### 2023级（2人）
+**2023级（2人）**
 - **魏新桐**：多源融合（中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）
 
 - \[1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.
