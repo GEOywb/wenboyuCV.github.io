@@ -163,7 +163,7 @@ redirect_from:
 <summary><strong>2023级（2人）</strong></summary>
 
 <details>
-<summary><strong>魏新桐</strong>：多源融合</summary>
+<summary><strong>魏新桐</strong>：多源融合（中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）</summary>
 <ul>
     <li>
         <strong>中科院一区顶刊2篇:</strong>
@@ -186,7 +186,7 @@ redirect_from:
 </details>
 
 <details>
-<summary><strong>徐鑫</strong>：异常检测</summary>
+<summary><strong>徐鑫</strong>：异常检测（期刊论文1篇）</summary>
 <ul>
     <li>
         <strong>期刊论文1篇:</strong>
