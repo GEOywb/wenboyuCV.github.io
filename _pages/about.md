@@ -115,26 +115,30 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 
 专利与软著
 ======
-1. 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
-2. 基于自适应L-BFGS算法的高光谱图像分类方法, ZL 2022 1 0133932.8, 苏州大学, 黄鹤, **于文博**, 王俊, 发明专利, 2025, 授权
-3. 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
-4. 基于多层次变分自动编码器的高光谱图像特征提取方法, ZL 2021 1 1627432.1, 苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权
-5. 一种 Gerber 文件中元器件同步缩放与快速定位方法, ZL 2024 1 0488096.4, 苏州大学, 沈纲祥, **于文博**, 发明专利, 2025, 授权
-6. 一种高光谱特征提取方法、装置及存储介质（22KJB510042）, ZL 2022 1 0277342.2，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权
-7. 遥感高光谱图像与激光雷达图像融合分类方法及装置（22KJB510042）, ZL 2022 1 1037953.6，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
-8. 面向遥感领域的高光谱与激光雷达图像融合方法及系统（BK20220486）, ZL 2023 1 0162662.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
-9. 一种高光谱图像与激光雷达图像融合分类方法和系统（BK20220486）, ZL 2023 1 0765131.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
-10. 一种基于深度学习的肺部CT图像检测系统以及方法（BK20220486）, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2023, 授权
-11. 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, **于文博**, 沈毅, 发明专利, 2021, 授权
-12. 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, **于文博**, 沈毅, 发明专利, 2021, 授权
-13. 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权
-14. 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, **于文博**, 软著, 2023, 授权
-
-### 硕士研究生
-======
-
 <details>
-<summary><strong>2025级</strong></summary>
+<summary><strong>查看专利与软件著作权列表（共14项）</strong></summary>
+<ol>
+<li>[1] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
+<li>[2] 基于自适应L-BFGS算法的高光谱图像分类方法, ZL 2022 1 0133932.8, 苏州大学, 黄鹤, **于文博**, 王俊, 发明专利, 2025, 授权</li>
+<li>[3] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
+<li>[4] 基于多层次变分自动编码器的高光谱图像特征提取方法, ZL 2021 1 1627432.1, 苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
+<li>[5] 一种 Gerber 文件中元器件同步缩放与快速定位方法, ZL 2024 1 0488096.4, 苏州大学, 沈纲祥, **于文博**, 发明专利, 2025, 授权</li>
+<li>[6] 一种高光谱特征提取方法、装置及存储介质（22KJB510042）, ZL 2022 1 0277342.2，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
+<li>[7] 遥感高光谱图像与激光雷达图像融合分类方法及装置（22KJB510042）, ZL 2022 1 1037953.6，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
+<li>[8] 面向遥感领域的高光谱与激光雷达图像融合方法及系统（BK20220486）, ZL 2023 1 0162662.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
+<li>[9] 一种高光谱图像与激光雷达图像融合分类方法和系统（BK20220486）, ZL 2023 1 0765131.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
+<li>[10] 一种基于深度学习的肺部CT图像检测系统以及方法（BK20220486）, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2023, 授权</li>
+<li>[11] 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, **于文博**, 沈毅, 发明专利, 2021, 授权</li>
+<li>[12] 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, **于文博**, 沈毅, 发明专利, 2021, 授权</li>
+<li>[13] 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权</li>
+<li>[14] 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, **于文博**, 软著, 2023, 授权</li>
+</ol>
+</details>
+
+硕士研究生
+======
+<details>
+<summary><strong>2025级（3人）</strong></summary>
 <ul>
     <li>王晨辉</li>
     <li>彭飞</li>
@@ -143,7 +147,7 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 </details>
 
 <details>
-<summary><strong>2024级</strong></summary>
+<summary><strong>2024级（2人）</strong></summary>
 <ul>
     <li><strong>任天鸣</strong>：光谱重建</li>
     <li><strong>张洪展</strong>：多源融合</li>
@@ -151,7 +155,7 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 </details>
 
 <details>
-<summary><strong>2023级</strong></summary>
+<summary><strong>2023级（2人）</strong></summary>
 
 <details>
 <summary><strong>魏新桐</strong>：多源融合</summary>
@@ -159,15 +163,15 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
     <li>
         <strong>中科院一区顶刊2篇:</strong>
         <ul>
-            <li>[1a] Xintong Wei, <strong>Wenbo Yu*</strong>, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.</li>
-            <li>[1b] Xintong Wei, <strong>Wenbo Yu*</strong>, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024, doi: <a href="https://doi.org/10.1109/TGRS.2024.3504861">10.1109/TGRS.2024.3504861</a></li>
+            <li>[1] Xintong Wei, <strong>Wenbo Yu*</strong>, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.</li>
+            <li>[2] Xintong Wei, <strong>Wenbo Yu*</strong>, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024, doi: <a href="https://doi.org/10.1109/TGRS.2024.3504861">10.1109/TGRS.2024.3504861</a></li>
         </ul>
     </li>
     <li>
         <strong>授权发明专利2项:</strong>
         <ul>
-            <li>[2a] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, <strong>于文博</strong>, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
-            <li>[2b] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, <strong>于文博</strong>, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
+            <li>[1] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, <strong>于文博</strong>, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
+            <li>[2] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, <strong>于文博</strong>, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
         </ul>
     </li>
     <li>
@@ -190,49 +194,41 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 
 </details>
 
-硕士研究生
-======
-**2025年**  
-1. 王晨辉
-2. 彭飞
-3. 左天舒
-
-**2024年**  
-1. 任天鸣：光谱重建
-2. 张洪展：多源融合
-
-**2023年**  
-1. 魏新桐：多源融合
-* [1] 中科院一区顶刊2篇:
-* [1a] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. xx, pp. 1-14, 2025.
-* [1b] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, doi: 10.1109/TGRS.2024.3504861
-* [2] 授权发明专利2项:
-* [2a]遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
-* [2b]一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
-* [3] 省部级项目1项: 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 [名单](https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html)
-2. 徐鑫：异常检测
-
 本科生活动汇总
 ======
-2023级电信1班班主任
+<details>
+<summary><strong>2023级电信1班班主任</strong></summary>
+</details>
 
-**大学生创新创业项目**  
-1. 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研
-2. 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，在研，1 IEEE GRSL
-3. 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1专利，1软著
+<details>
+<summary><strong>大学生创新创业项目3项</strong></summary>
+<ul>
+    <li>[1] 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研</li>
+    <li>[2] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，在研，1 IEEE GRSL，1发明专利</li>
+    <li>[3] 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1发明专利，1软著</li>
+</ul>
+</details>
 
-**大学生课外学术科研基金**  
-1. 面向农业病虫害检测的高光谱与激光雷达影像融合分类，第二十六批大学生课外学术科研基金（重点项目），陆银标，徐彤彤，2024，结题（合格）
-2. 复杂非均匀光照场景中高光谱与LiDAR图像跨域融合与地物解译研究，第二十五批大学生课外学术科研基金（一般项目），陈笑，2023，结题（合格）
+<details>
+<summary><strong>大学生课外学术科研基金2项</strong></summary>
+<ul>
+    <li>[1] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，第二十六批大学生课外学术科研基金（重点项目），陆银标，徐彤彤，2024，结题（合格）</li>
+    <li>[2] 复杂非均匀光照场景中高光谱与LiDAR图像跨域融合与地物解译研究，第二十五批大学生课外学术科研基金（一般项目），陈笑，2023，结题（合格）</li>
+</ul>
+</details>
 
-**本科生科研能力提升计划**
-1. 基于大规模高分地表覆盖制图的南京、常州、武汉等地农村城市跨场景域自适应算法开发，本科生科研能力提升计划，2024-2025，结题
-2. 面向北京-武汉和柏林-奥格斯堡的高光谱-多光谱-合成孔径雷达跨城市高精度地物分类算法开发，本科生科研能力提升计划，2024-2025，结题
-3. 单帧红外小目标检测算法开发，本科生科研能力提升计划，2024-2025，结题
-4. 基于多时相遥感影像变化检测的城市发展监测系统开发，本科生科研能力提升计划，2023-2024，结题
-5. 遥感影像异常目标检测算法研究及系统开发，本科生科研能力提升计划，2023-2024，结题
-6. 应用遥感影像的城市建筑物变化检测与规划系统开发，本科生科研能力提升计划，2023-2024，结题
-7. 面向多源遥感图像匹配的智能识别方法研究，本科生科研能力提升计划，2022-2023，结题
+<details>
+<summary><strong>本科生科研能力提升计划7项</strong></summary>
+<ul>
+    <li>[1] 基于大规模高分地表覆盖制图的南京、常州、武汉等地农村城市跨场景域自适应算法开发，本科生科研能力提升计划，2024-2025，结题</li>
+    <li>[2] 面向北京-武汉和柏林-奥格斯堡的高光谱-多光谱-合成孔径雷达跨城市高精度地物分类算法开发，本科生科研能力提升计划，2024-2025，结题</li>
+    <li>[3] 单帧红外小目标检测算法开发，本科生科研能力提升计划，2024-2025，结题</li>
+    <li>[4] 基于多时相遥感影像变化检测的城市发展监测系统开发，本科生科研能力提升计划，2023-2024，结题</li>
+    <li>[5] 遥感影像异常目标检测算法研究及系统开发，本科生科研能力提升计划，2023-2024，结题</li>
+    <li>[6] 应用遥感影像的城市建筑物变化检测与规划系统开发，本科生科研能力提升计划，2023-2024，结题</li>
+    <li>[7] 面向多源遥感图像匹配的智能识别方法研究，本科生科研能力提升计划，2022-2023，结题</li>
+</ul>
+</details>
 
 开授课程
 ======
