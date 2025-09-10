@@ -107,14 +107,14 @@ redirect_from:
 <ul>
 <li>[1] <strong>Wenbo Yu*</strong>, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.</li>
 <li>[2] <strong>Wenbo Yu*</strong>, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.</li>
-<li>[3] <strong>Wenbo Yu*</strong>, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," <em>Chinese Control Conference (CCC)</em>, Tianjin, China, pp. 7417-7420, 2023, doi: 10.23919/CCC58697.2023.10240536</li>
-<li>[4] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 3555-3558, 2018, doi: 10.1109/IGARSS.2018.8517528</li>
-<li>[5] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," <em>Chinese Control Conference (CCC)</em>, Dalian, China, pp. 11468-11471, 2017, doi: 10.23919/ChiCC.2017.8029188</li>
-<li>[6] Jun Wang, <strong>Wenbo Yu</strong> and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," <em>Data Driven Control and Learning Systems Conference (DDCLS)</em>, Xiangtan, China, pp. 1233-1238, 2023, doi: 10.1109/DDCLS58216.2023.10166210</li>
-<li>[7] Miao Zhang*, <strong>Wenbo Yu</strong> and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 4701-4704, 2018, doi: 10.1109/IGARSS.2018.8518164</li>
+<li>[3] <strong>Wenbo Yu*</strong>, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," <em>Chinese Control Conference (CCC)</em>, Tianjin, China, pp. 7417-7420, 2023.</li>
+<li>[4] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 3555-3558, 2018.</li>
+<li>[5] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," <em>Chinese Control Conference (CCC)</em>, Dalian, China, pp. 11468-11471, 2017.</li>
+<li>[6] Jun Wang, <strong>Wenbo Yu</strong> and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," <em>Data Driven Control and Learning Systems Conference (DDCLS)</em>, Xiangtan, China, pp. 1233-1238, 2023.</li>
+<li>[7] Miao Zhang*, <strong>Wenbo Yu</strong> and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 4701-4704, 2018.</li>
 <li>[8] Peiyuan Jia, Miao Zhang*, <strong>Wenbo Yu</strong>, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", <em>Chinese Society for Optical Engineering Conferences</em>, 2017</li>
-<li>[9] Peiyuan Jia, Miao Zhang*, <strong>Wenbo Yu</strong>, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," <em>International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Beijing, China, pp. 5075-5078, 2016, doi: 10.1109/IGARSS.2016.7730323</li>
-<li>[10] 张淼*，<strong>于文博</strong>，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，<em>上海航天</em>，pp. 27-32，2017</li>
+<li>[9] Peiyuan Jia, Miao Zhang*, <strong>Wenbo Yu</strong>, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," <em>International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Beijing, China, pp. 5075-5078, 2016.</li>
+<li>[10] 张淼*，<strong>于文博</strong>，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，<em>上海航天</em>，pp. 27-32，2017.</li>
 </ul>
 </details>
 
