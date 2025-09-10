@@ -11,32 +11,28 @@ redirect_from:
 
 **每年招收硕士研究生<font color=red> 3 </font>人**（欢迎对以下方向感兴趣的同学联系：多模态遥感解译，计算机视觉，机械臂控制及路径规划）。
 
-## 研究领域
+研究领域
 ======
-
 1. 多源遥感 Multi-source remote sensing
 2. 高光谱/高分遥感信息处理 Hyperspectral/VHR remote sensing information processing
 3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
 5. 机械臂控制及路径规划 Robotic arm control and path planning
 
-## 教育经历
+教育经历
 ======
-
 1. 学士，哈尔滨工业大学，航天学院，自动化，2012.09-2016.06
 2. 硕士（硕博连读），哈尔滨工业大学，航天学院，控制科学与工程，2016.09-2017.06
 3. 博士，哈尔滨工业大学，航天学院，控制科学与工程，2017.09-2021.10
 4. 联培博士，荷兰，代尔夫特理工大学，EEMCS学院，2019.09-2020.09
 
-## 工作经历
+工作经历
 ======
-
 1. 讲师（助理研究员），苏州大学，电子信息学院，2021.11 至今
 2. 访问学者，遥感科学国家重点实验室，2023.08-2025.07
 
-## 科研项目
+科研项目
 ======
-
 1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持
 2. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
 3. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授（中国科学院空天信息创新研究院），基金号：OFSLRSS202302，主持
@@ -47,9 +43,8 @@ redirect_from:
 8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持
 9. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请
 
-## 荣誉及奖励
+荣誉及奖励
 ======
-
 1. 2022年度中国遥感优秀成果二等奖（1/3），2023-08-15
 2. 江苏省科协青年科技人才托举工程，省部级，2024-09-01
 3. 苏州市科协青年科技人才托举工程，市厅级，2024-06-01
@@ -59,17 +54,15 @@ redirect_from:
 7. 2023年度学院发展贡献奖教金，2024-03-01
 8. “课程思政”教学比赛三等奖，2023-12-15
 
-## 社会职务
+社会职务
 ======
-
 1. 中国图像图形学会CSIG遥感图像专业委员会成员
 2. 中国图像图形学会CSIG企业联络与标准化工作委员会成员
 3. IEEE/中国电子学会/中国人工智能学会（青工委CAAI）/中国图像图形学会CSIG/江苏省人工智能学会会员
 4. IEEE TNNLS、IEEE TGRS、IEEE GRSL、IEEE TIM、KBS、NN等期刊长期审稿人
 
-## 期刊论文
+期刊论文
 ======
-
 **2025年**  
 * [1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-14, 2025.
 * [2] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
@@ -107,149 +100,88 @@ redirect_from:
 **2018年**  
 * [21] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Combined FATEMD-based Band Selection Method for Hyperspectral Images", <em>IET Image Processing</em>, vol. 13, No. 2, pp. 287-298, 2018.
 
-## 会议论文
+会议论文
 ======
+* [1] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.
+* [2] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.
+* [3] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," <em>Chinese Control Conference (CCC)</em>, Tianjin, China, pp. 7417-7420, 2023.
+* [4] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 3555-3558, 2018.
+* [5] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," <em>Chinese Control Conference (CCC)</em>, Dalian, China, pp. 11468-11471, 2017.
+* [6] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," <em>Data Driven Control and Learning Systems Conference (DDCLS)</em>, Xiangtan, China, pp. 1233-1238, 2023.
+* [7] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 4701-4704, 2018.
+* [8] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", <em>Chinese Society for Optical Engineering Conferences</em>, 2017.
+* [9] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," <em>International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Beijing, China, pp. 5075-5078, 2016.
+* [10] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，<em>上海航天</em>，pp. 27-32，2017.
 
-<details>
-<summary><strong>查看会议论文列表（共10篇）</strong></summary>
-<ul>
-<li>[1] <strong>Wenbo Yu*</strong>, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.</li>
-<li>[2] <strong>Wenbo Yu*</strong>, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.</li>
-<li>[3] <strong>Wenbo Yu*</strong>, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," <em>Chinese Control Conference (CCC)</em>, Tianjin, China, pp. 7417-7420, 2023.</li>
-<li>[4] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 3555-3558, 2018.</li>
-<li>[5] <strong>Wenbo Yu</strong>, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," <em>Chinese Control Conference (CCC)</em>, Dalian, China, pp. 11468-11471, 2017.</li>
-<li>[6] Jun Wang, <strong>Wenbo Yu</strong> and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," <em>Data Driven Control and Learning Systems Conference (DDCLS)</em>, Xiangtan, China, pp. 1233-1238, 2023.</li>
-<li>[7] Miao Zhang*, <strong>Wenbo Yu</strong> and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 4701-4704, 2018.</li>
-<li>[8] Peiyuan Jia, Miao Zhang*, <strong>Wenbo Yu</strong>, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", <em>Chinese Society for Optical Engineering Conferences</em>, 2017</li>
-<li>[9] Peiyuan Jia, Miao Zhang*, <strong>Wenbo Yu</strong>, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," <em>International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Beijing, China, pp. 5075-5078, 2016.</li>
-<li>[10] 张淼*，<strong>于文博</strong>，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，<em>上海航天</em>，pp. 27-32，2017.</li>
-</ul>
-</details>
-
-
-## 专利与软著
+专利与软著
 ======
+* [1] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
+* [2] 基于自适应L-BFGS算法的高光谱图像分类方法, ZL 2022 1 0133932.8, 苏州大学, 黄鹤, **于文博**, 王俊, 发明专利, 2025, 授权
+* [3] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
+* [4] 基于多层次变分自动编码器的高光谱图像特征提取方法, ZL 2021 1 1627432.1, 苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权
+* [5] 一种 Gerber 文件中元器件同步缩放与快速定位方法, ZL 2024 1 0488096.4, 苏州大学, 沈纲祥, **于文博**, 发明专利, 2025, 授权
+* [6] 一种高光谱特征提取方法、装置及存储介质（22KJB510042）, ZL 2022 1 0277342.2，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2025, 授权
+* [7] 遥感高光谱图像与激光雷达图像融合分类方法及装置（22KJB510042）, ZL 2022 1 1037953.6，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
+* [8] 面向遥感领域的高光谱与激光雷达图像融合方法及系统（BK20220486）, ZL 2023 1 0162662.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
+* [9] 一种高光谱图像与激光雷达图像融合分类方法和系统（BK20220486）, ZL 2023 1 0765131.8，苏州大学, **于文博**, 黄鹤, 沈纲祥, 发明专利, 2024, 授权
+* [10] 一种基于深度学习的肺部CT图像检测系统以及方法（BK20220486）, ZL 2023 1 0326740.3，苏州大学, **于文博**, 丁维新, 发明专利, 2023, 授权
+* [11] 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, **于文博**, 沈毅, 发明专利, 2021, 授权
+* [12] 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, **于文博**, 沈毅, 发明专利, 2021, 授权
+* [13] 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权
+* [14] 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, **于文博**, 软著, 2023, 授权
 
-<details>
-<summary><strong>查看专利与软著列表（共14项）</strong></summary>
-<ul>
-<li>[1] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, <strong>于文博</strong>, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
-<li>[2] 基于自适应L-BFGS算法的高光谱图像分类方法, ZL 2022 1 0133932.8, 苏州大学, 黄鹤, <strong>于文博</strong>, 王俊, 发明专利, 2025, 授权</li>
-<li>[3] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, <strong>于文博</strong>, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
-<li>[4] 基于多层次变分自动编码器的高光谱图像特征提取方法, ZL 2021 1 1627432.1, 苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
-<li>[5] 一种 Gerber 文件中元器件同步缩放与快速定位方法, ZL 2024 1 0488096.4, 苏州大学, 沈纲祥, <strong>于文博</strong>, 发明专利, 2025, 授权</li>
-<li>[6] 一种高光谱特征提取方法、装置及存储介质（22KJB510042）, ZL 2022 1 0277342.2，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2025, 授权</li>
-<li>[7] 遥感高光谱图像与激光雷达图像融合分类方法及装置（22KJB510042）, ZL 2022 1 1037953.6，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
-<li>[8] 面向遥感领域的高光谱与激光雷达图像融合方法及系统（BK20220486）, ZL 2023 1 0162662.8，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
-<li>[9] 一种高光谱图像与激光雷达图像融合分类方法和系统（BK20220486）, ZL 2023 1 0765131.8，苏州大学, <strong>于文博</strong>, 黄鹤, 沈纲祥, 发明专利, 2024, 授权</li>
-<li>[10] 一种基于深度学习的肺部CT图像检测系统以及方法（BK20220486）, ZL 2023 1 0326740.3，苏州大学, <strong>于文博</strong>, 丁维新, 发明专利, 2023, 授权</li>
-<li>[11] 一种跟踪过程中动态目标的特征光谱提取方法, ZL 2017 1 0110716.0, 哈尔滨工业大学, 张淼, 宋敏敏, <strong>于文博</strong>, 沈毅, 发明专利, 2021, 授权</li>
-<li>[12] 基于归一化多维互信息和克隆选择的高光谱波段选择方法, ZL 2016 1 0445958.0, 哈尔滨工业大学, 张淼, <strong>于文博</strong>, 沈毅, 发明专利, 2021, 授权</li>
-<li>[13] 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, <strong>于文博</strong>, 软著, 2024, 授权</li>
-<li>[14] 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, <strong>于文博</strong>, 软著, 2023, 授权</li>
-</ul>
-</details>
-
-
-## 硕士研究生
+硕士研究生
 ======
+**>2025级（3人）**
+* 王晨辉
+* 彭飞
+* 左天舒
 
-<details>
-<summary><strong>2025级（3人）</strong></summary>
-<ul>
-    <li><strong>王晨辉</strong></li>
-    <li><strong>彭飞</strong></li>
-    <li><strong>左天舒</strong></li>
-</ul>
-</details>
+**2024级（2人）**
+* 任天鸣：光谱重建
+* 张洪展：多源融合
 
-<details>
-<summary><strong>2024级（2人）</strong></summary>
-<ul>
-    <li><strong>任天鸣</strong>：光谱重建</li>
-    <li><strong>张洪展</strong>：多源融合</li>
-</ul>
-</details>
+**2023级（2人）**
+* 魏新桐：多源融合（中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）
+中科院一区顶刊2篇:
+[1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.
 
-<details>
-<summary><strong>2023级（2人）</strong></summary>
+[2] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
 
-<details>
-<summary><strong>魏新桐</strong>：多源融合（中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）</summary>
-<ul>
-    <li>
-        <strong>中科院一区顶刊2篇:</strong>
-        <ul>
-            <li>[1] Xintong Wei, <strong>Wenbo Yu*</strong>, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.</li>
-            <li>[2] Xintong Wei, <strong>Wenbo Yu*</strong>, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.</li>
-        </ul>
-    </li>
-    <li>
-        <strong>授权发明专利2项:</strong>
-        <ul>
-            <li>[1] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, <strong>于文博</strong>, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
-            <li>[2] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, <strong>于文博</strong>, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
-        </ul>
-    </li>
-    <li>
-        <strong>省部级项目1项:</strong> 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]</a>
-    </li>
-</ul>
-</details>
+授权发明专利2项:
+[1] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
+[2] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
 
-<details>
-<summary><strong>徐鑫</strong>：异常检测（期刊论文1篇）</summary>
-<ul>
-    <li>
-        <strong>期刊论文1篇:</strong>
-        <ul>
-            <li>Xin Xv, <strong>Wenbo Yu*</strong>, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2025.</li>
-        </ul>
-    </li>
-</ul>
-</details>
+省部级项目1项:
+江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]
 
-</details>
+* 徐鑫：异常检测（期刊论文1篇）
+期刊论文1篇:
+Xin Xv, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2025.
 
-
-## 本科生活动汇总
+本科生活动汇总
 ======
+**2023级电信1班班主任**
 
-2023级电信1班班主任
+**大学生创新创业项目3项**
+* [1] 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研
+* [2] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，在研，1 IEEE GRSL，1发明专利
+* [3] 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1发明专利，1软著
 
-<details>
-<summary><strong>大学生创新创业项目3项</strong></summary>
-<ul>
-    <li>[1] 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研</li>
-    <li>[2] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，在研，1 IEEE GRSL，1发明专利</li>
-    <li>[3] 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1发明专利，1软著</li>
-</ul>
-</details>
+**大学生课外学术科研基金2项**
+* [1] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，第二十六批大学生课外学术科研基金（重点项目），陆银标，徐彤彤，2024，结题（合格）
+* [2] 复杂非均匀光照场景中高光谱与LiDAR图像跨域融合与地物解译研究，第二十五批大学生课外学术科研基金（一般项目），陈笑，2023，结题（合格）
 
-<details>
-<summary><strong>大学生课外学术科研基金2项</strong></summary>
-<ul>
-    <li>[1] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，第二十六批大学生课外学术科研基金（重点项目），陆银标，徐彤彤，2024，结题（合格）</li>
-    <li>[2] 复杂非均匀光照场景中高光谱与LiDAR图像跨域融合与地物解译研究，第二十五批大学生课外学术科研基金（一般项目），陈笑，2023，结题（合格）</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>本科生科研能力提升计划7项</strong></summary>
-<ul>
-    <li>[1] 基于大规模高分地表覆盖制图的南京、常州、武汉等地农村城市跨场景域自适应算法开发，本科生科研能力提升计划，2024-2025，结题</li>
-    <li>[2] 面向北京-武汉和柏林-奥格斯堡的高光谱-多光谱-合成孔径雷达跨城市高精度地物分类算法开发，本科生科研能力提升计划，2024-2025，结题</li>
-    <li>[3] 单帧红外小目标检测算法开发，本科生科研能力提升计划，2024-2025，结题</li>
-    <li>[4] 基于多时相遥感影像变化检测的城市发展监测系统开发，本科生科研能力提升计划，2023-2024，结题</li>
-    <li>[5] 遥感影像异常目标检测算法研究及系统开发，本科生科研能力提升计划，2023-2024，结题</li>
-    <li>[6] 应用遥感影像的城市建筑物变化检测与规划系统开发，本科生科研能力提升计划，2023-2024，结题</li>
-    <li>[7] 面向多源遥感图像匹配的智能识别方法研究，本科生科研能力提升计划，2022-2023，结题</li>
-</ul>
-</details>
-
-
-## 开授课程
+**本科生科研能力提升计划7项**
+* [1] 基于大规模高分地表覆盖制图的南京、常州、武汉等地农村城市跨场景域自适应算法开发，本科生科研能力提升计划，2024-2025，结题
+* [2] 面向北京-武汉和柏林-奥格斯堡的高光谱-多光谱-合成孔径雷达跨城市高精度地物分类算法开发，本科生科研能力提升计划，2024-2025，结题
+* [3] 单帧红外小目标检测算法开发，本科生科研能力提升计划，2024-2025，结题
+* [4] 基于多时相遥感影像变化检测的城市发展监测系统开发，本科生科研能力提升计划，2023-2024，结题
+* [5] 遥感影像异常目标检测算法研究及系统开发，本科生科研能力提升计划，2023-2024，结题
+* [6] 应用遥感影像的城市建筑物变化检测与规划系统开发，本科生科研能力提升计划，2023-2024，结题
+* [7] 面向多源遥感图像匹配的智能识别方法研究，本科生科研能力提升计划，2022-2023，结题
+  
+开授课程
 ======
-
 1. 自动控制原理，本科生（第六学期）
 2. 工程管理与环境，本科生（第五学期）
