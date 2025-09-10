@@ -25,15 +25,15 @@ redirect_from:
 
 科研项目
 ======
-1. 国家自然科学基金青年项目（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持
-2. 江苏省自然科学基金青年项目（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
-3. 遥感科学国家重点实验室开放基金（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授（中国科学院空天信息创新研究院），基金号：OFSLRSS202302，主持
-4. 遥感与数字地球全国重点实验室开放课题，智能协同的高光谱与激光雷达影像无监督增量融合分类，合作人：张立强教授（北京师范大学），基金号：OFSLRSS202522，主持
-5. 自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金（Technology Innovation Center for Collaborative Applications of Natural Resources Data in GBA, MNR），基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，合作人：刘锐研究员（广东省国土资源技术中心），基金号：2025NRDK02，主持 
-6. 福建省空间信息感知与智能处理重点实验室开放基金（Open Project of Fujian Key Laboratory of Spatial Information Perception and Intelligent Processing (Yango University）），城市动态监测中高光谱遥感图像的时空谱协同分类研究，2万，2024.01.01-2025.01.01，合作人：黄风华教授（阳光学院），基金号：FKLSIPIP1014，主持
-7. 江苏省高等学校自然科学研究项目（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持
-8. 江苏省科协青年科技人才托举工程+苏州市科协青年科技人才托举工程，2万，主持
-9. 苏州市科技发展计划面上项目（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请
+1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持
+2. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
+3. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授（中国科学院空天信息创新研究院），基金号：OFSLRSS202302，主持
+4. **遥感与数字地球全国重点实验室开放课题**，智能协同的高光谱与激光雷达影像无监督增量融合分类，合作人：张立强教授（北京师范大学），基金号：OFSLRSS202522，主持
+5. **自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金**（Technology Innovation Center for Collaborative Applications of Natural Resources Data in GBA, MNR），基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，合作人：刘锐研究员（广东省国土资源技术中心），基金号：2025NRDK02，主持 
+6. **福建省空间信息感知与智能处理重点实验室开放基金**（Open Project of Fujian Key Laboratory of Spatial Information Perception and Intelligent Processing (Yango University）），城市动态监测中高光谱遥感图像的时空谱协同分类研究，2万，2024.01.01-2025.01.01，合作人：黄风华教授（阳光学院），基金号：FKLSIPIP1014，主持
+7. **江苏省高等学校自然科学研究项目**（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持
+8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持
+9. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请
 
 荣誉及奖励
 ======
@@ -61,7 +61,7 @@ redirect_from:
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
 5. 计算机视觉及机器人控制 Computer vision and robot control 
 
-论文
+期刊论文
 ======
 **2025年**  
 * [1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-14, 2025.
@@ -100,18 +100,23 @@ redirect_from:
 **2018年**  
 * [21] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Combined FATEMD-based Band Selection Method for Hyperspectral Images", IET Image Processing, vol. 13, No. 2, pp. 287-298, 2018, doi: 10.1049/iet-ipr.2018.5550
 
-**会议**
-* [1] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," Chinese Control Conference (CCC), Kunming, China, 2024.
-* [2] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for
-Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference (CCC), Kunming, China, 2024.
-* [3] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," Chinese Control Conference (CCC), Tianjin, China, pp. 7417-7420, 2023, doi: 10.23919/CCC58697.2023.10240536
-* [4] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 3555-3558, 2018, doi: 10.1109/IGARSS.2018.8517528
-* [5] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," Chinese Control Conference (CCC), Dalian, China, pp. 11468-11471, 2017, doi: 10.23919/ChiCC.2017.8029188
-* [6] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," Data Driven Control and Learning Systems Conference (DDCLS), Xiangtan, China, pp. 1233-1238, 2023, doi: 10.1109/DDCLS58216.2023.10166210
-* [7] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 4701-4704, 2018, doi: 10.1109/IGARSS.2018.8518164
-* [8] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", Chinese Society for Optical Engineering Conferences, 2017
-* [9] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, pp. 5075-5078, 2016, doi: 10.1109/IGARSS.2016.7730323
-* [10] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，上海航天，pp. 27-32，2017
+会议论文
+======
+<details>
+<summary><strong>查看会议论文列表（共10篇）</strong></summary>
+<ul>
+<li>[1] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," Chinese Control Conference (CCC), Kunming, China, 2024.</li>
+<li>[2] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference (CCC), Kunming, China, 2024.</li>
+<li>[3] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," Chinese Control Conference (CCC), Tianjin, China, pp. 7417-7420, 2023, doi: 10.23919/CCC58697.2023.10240536</li>
+<li>[4] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 3555-3558, 2018, doi: 10.1109/IGARSS.2018.8517528</li>
+<li>[5] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," Chinese Control Conference (CCC), Dalian, China, pp. 11468-11471, 2017, doi: 10.23919/ChiCC.2017.8029188</li>
+<li>[6] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," Data Driven Control and Learning Systems Conference (DDCLS), Xiangtan, China, pp. 1233-1238, 2023, doi: 10.1109/DDCLS58216.2023.10166210</li>
+<li>[7] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Valencia, Spain, pp. 4701-4704, 2018, doi: 10.1109/IGARSS.2018.8518164</li>
+<li>[8] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", Chinese Society for Optical Engineering Conferences, 2017</li>
+<li>[9] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, pp. 5075-5078, 2016, doi: 10.1109/IGARSS.2016.7730323</li>
+<li>[10] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，上海航天，pp. 27-32，2017</li>
+</ul>
+</details>
 
 专利与软著
 ======
