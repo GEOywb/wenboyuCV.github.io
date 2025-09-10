@@ -130,6 +130,59 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 13. 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权
 14. 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, **于文博**, 软著, 2023, 授权
 
+### 硕士研究生
+======
+
+<details>
+<summary><strong>2025级</strong></summary>
+<ul>
+    <li>王晨辉</li>
+    <li>彭飞</li>
+    <li>左天舒</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>2024级</strong></summary>
+<ul>
+    <li><strong>任天鸣</strong>：光谱重建</li>
+    <li><strong>张洪展</strong>：多源融合</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>2023级</strong></summary>
+
+<details>
+<summary><strong>魏新桐</strong>：多源融合</summary>
+<ul>
+    <li>
+        <strong>中科院一区顶刊2篇:</strong>
+        <ul>
+            <li>[1a] Xintong Wei, <strong>Wenbo Yu*</strong>, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.</li>
+            <li>[1b] Xintong Wei, <strong>Wenbo Yu*</strong>, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024, doi: <a href="https://doi.org/10.1109/TGRS.2024.3504861">10.1109/TGRS.2024.3504861</a></li>
+        </ul>
+    </li>
+    <li>
+        <strong>授权发明专利2项:</strong>
+        <ul>
+            <li>[2a] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, <strong>于文博</strong>, 魏新桐, 刘锐, 发明专利, 2025, 授权</li>
+            <li>[2b] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, <strong>于文博</strong>, 陆银标, 魏新桐, 发明专利, 2025, 授权</li>
+        </ul>
+    </li>
+    <li>
+        <strong>省部级项目1项:</strong> 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]</a>
+    </li>
+</ul>
+</details>
+
+<details>
+<summary><strong>徐鑫</strong>：异常检测</summary>
+<p><em>（可在此添加徐鑫同学的研究成果介绍）</em></p>
+</details>
+
+</details>
+
 硕士研究生
 ======
 **2025年**  
