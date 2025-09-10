@@ -4,136 +4,48 @@ layout: compress
 
 {% include base_path %}
 
-<body>
-  <!-- 简约动态粒子背景 -->
-  <div id="particles-container">
-    <!-- 25个浅灰色粒子 -->
-    <div class="particle" style="left: 10%; top: 20%;"></div>
-    <div class="particle" style="left: 30%; top: 15%;"></div>
-    <div class="particle" style="left: 50%; top: 25%;"></div>
-    <div class="particle" style="left: 70%; top: 10%;"></div>
-    <div class="particle" style="left: 90%; top: 30%;"></div>
-    
-    <div class="particle" style="left: 15%; top: 40%;"></div>
-    <div class="particle" style="left: 35%; top: 50%;"></div>
-    <div class="particle" style="left: 55%; top: 45%;"></div>
-    <div class="particle" style="left: 75%; top: 35%;"></div>
-    <div class="particle" style="left: 95%; top: 55%;"></div>
-    
-    <div class="particle" style="left: 5%; top: 60%;"></div>
-    <div class="particle" style="left: 25%; top: 70%;"></div>
-    <div class="particle" style="left: 45%; top: 65%;"></div>
-    <div class="particle" style="left: 65%; top: 75%;"></div>
-    <div class="particle" style="left: 85%; top: 60%;"></div>
-    
-    <div class="particle" style="left: 20%; top: 85%;"></div>
-    <div class="particle" style="left: 40%; top: 90%;"></div>
-    <div class="particle" style="left: 60%; top: 80%;"></div>
-    <div class="particle" style="left: 80%; top: 95%;"></div>
-    <div class="particle" style="left: 95%; top: 85%;"></div>
-    
-    <div class="particle" style="left: 10%; top: 5%;"></div>
-    <div class="particle" style="left: 50%; top: 5%;"></div>
-    <div class="particle" style="left: 90%; top: 5%;"></div>
-    <div class="particle" style="left: 5%; top: 50%;"></div>
-    <div class="particle" style="left: 95%; top: 50%;"></div>
-  </div>
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-  <script>
-    // 简单的鼠标互动效果
-    document.addEventListener('DOMContentLoaded', function() {
-      const container = document.getElementById('particles-container');
-      const particles = document.querySelectorAll('#particles-container .particle');
-      const connectors = [];
-      
-      // 创建连接线
-      function createConnectors() {
-        // 清除旧连接线
-        connectors.forEach(connector => connector.remove());
-        connectors.length = 0;
-        
-        // 创建新连接线（连接附近的粒子）
-        particles.forEach((particle, i) => {
-          for (let j = i + 1; j < particles.length; j++) {
-            const otherParticle = particles[j];
-            const rect1 = particle.getBoundingClientRect();
-            const rect2 = otherParticle.getBoundingClientRect();
-            
-            const distance = Math.sqrt(
-              Math.pow(rect2.left - rect1.left, 2) + 
-              Math.pow(rect2.top - rect1.top, 2)
-            );
-            
-            // 只连接距离较近的粒子
-            if (distance < 200) {
-              createConnector(particle, otherParticle);
-            }
-          }
-        });
-      }
-      
-      function createConnector(p1, p2) {
-        const connector = document.createElement('div');
-        connector.className = 'particle-connector';
-        container.appendChild(connector);
-        connectors.push(connector);
-        updateConnector(connector, p1, p2);
-      }
-      
-      function updateConnector(connector, p1, p2) {
-        const rect1 = p1.getBoundingClientRect();
-        const rect2 = p2.getBoundingClientRect();
-        
-        const x1 = rect1.left + rect1.width / 2;
-        const y1 = rect1.top + rect1.height / 2;
-        const x2 = rect2.left + rect2.width / 2;
-        const y2 = rect2.top + rect2.height / 2;
-        
-        const distance = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
-        const angle = Math.atan2(y2 - y1, x2 - x1) * 180 / Math.PI;
-        
-        connector.style.width = distance + 'px';
-        connector.style.left = x1 + 'px';
-        connector.style.top = y1 + 'px';
-        connector.style.transform = `rotate(${angle}deg)`;
-      }
-      
-      // 鼠标移动效果
-      container.addEventListener('mousemove', function(e) {
-        const mouseX = e.clientX;
-        const mouseY = e.clientY;
-        
-        particles.forEach(particle => {
-          const rect = particle.getBoundingClientRect();
-          const particleX = rect.left + rect.width / 2;
-          const particleY = rect.top + rect.height / 2;
-          
-          const distance = Math.sqrt(
-            Math.pow(mouseX - particleX, 2) + 
-            Math.pow(mouseY - particleY, 2)
-          );
-          
-          if (distance < 100) {
-            const force = (100 - distance) / 100;
-            const angle = Math.atan2(mouseY - particleY, mouseX - particleX);
-            
-            particle.style.transform = `translate(${Math.cos(angle) * force * 15}px, ${Math.sin(angle) * force * 15}px) scale(1.3)`;
-          } else {
-            particle.style.transform = 'scale(1)';
-          }
-        });
-      });
-      
-      // 初始化
-      setTimeout(createConnectors, 100); // 延迟确保元素已渲染
-      
-      // 窗口调整时更新连接线
-      window.addEventListener('resize', function() {
-        createConnectors();
-      });
-    });
-  </script>
   <body>
+    <!-- 简约动态粒子背景 -->
+    <div id="particles-container">
+      <!-- 25个浅灰色粒子 -->
+      <div class="particle" style="left: 10%; top: 20%;"></div>
+      <div class="particle" style="left: 30%; top: 15%;"></div>
+      <div class="particle" style="left: 50%; top: 25%;"></div>
+      <div class="particle" style="left: 70%; top: 10%;"></div>
+      <div class="particle" style="left: 90%; top: 30%;"></div>
+      
+      <div class="particle" style="left: 15%; top: 40%;"></div>
+      <div class="particle" style="left: 35%; top: 50%;"></div>
+      <div class="particle" style="left: 55%; top: 45%;"></div>
+      <div class="particle" style="left: 75%; top: 35%;"></div>
+      <div class="particle" style="left: 95%; top: 55%;"></div>
+      
+      <div class="particle" style="left: 5%; top: 60%;"></div>
+      <div class="particle" style="left: 25%; top: 70%;"></div>
+      <div class="particle" style="left: 45%; top: 65%;"></div>
+      <div class="particle" style="left: 65%; top: 75%;"></div>
+      <div class="particle" style="left: 85%; top: 60%;"></div>
+      
+      <div class="particle" style="left: 20%; top: 85%;"></div>
+      <div class="particle" style="left: 40%; top: 90%;"></div>
+      <div class="particle" style="left: 60%; top: 80%;"></div>
+      <div class="particle" style="left: 80%; top: 95%;"></div>
+      <div class="particle" style="left: 95%; top: 85%;"></div>
+      
+      <div class="particle" style="left: 10%; top: 5%;"></div>
+      <div class="particle" style="left: 50%; top: 5%;"></div>
+      <div class="particle" style="left: 90%; top: 5%;"></div>
+      <div class="particle" style="left: 5%; top: 50%;"></div>
+      <div class="particle" style="left: 95%; top: 50%;"></div>
+    </div>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -147,5 +59,100 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <script>
+      // 简单的鼠标互动效果
+      document.addEventListener('DOMContentLoaded', function() {
+        const container = document.getElementById('particles-container');
+        const particles = document.querySelectorAll('#particles-container .particle');
+        const connectors = [];
+        
+        // 创建连接线
+        function createConnectors() {
+          // 清除旧连接线
+          connectors.forEach(connector => connector.remove());
+          connectors.length = 0;
+          
+          // 创建新连接线（连接附近的粒子）
+          particles.forEach((particle, i) => {
+            for (let j = i + 1; j < particles.length; j++) {
+              const otherParticle = particles[j];
+              const rect1 = particle.getBoundingClientRect();
+              const rect2 = otherParticle.getBoundingClientRect();
+              
+              const distance = Math.sqrt(
+                Math.pow(rect2.left - rect1.left, 2) + 
+                Math.pow(rect2.top - rect1.top, 2)
+              );
+              
+              // 只连接距离较近的粒子
+              if (distance < 200) {
+                createConnector(particle, otherParticle);
+              }
+            }
+          });
+        }
+        
+        function createConnector(p1, p2) {
+          const connector = document.createElement('div');
+          connector.className = 'particle-connector';
+          container.appendChild(connector);
+          connectors.push(connector);
+          updateConnector(connector, p1, p2);
+        }
+        
+        function updateConnector(connector, p1, p2) {
+          const rect1 = p1.getBoundingClientRect();
+          const rect2 = p2.getBoundingClientRect();
+          
+          const x1 = rect1.left + rect1.width / 2;
+          const y1 = rect1.top + rect1.height / 2;
+          const x2 = rect2.left + rect2.width / 2;
+          const y2 = rect2.top + rect2.height / 2;
+          
+          const distance = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
+          const angle = Math.atan2(y2 - y1, x2 - x1) * 180 / Math.PI;
+          
+          connector.style.width = distance + 'px';
+          connector.style.left = x1 + 'px';
+          connector.style.top = y1 + 'px';
+          connector.style.transform = `rotate(${angle}deg)`;
+        }
+        
+        // 鼠标移动效果
+        container.addEventListener('mousemove', function(e) {
+          const mouseX = e.clientX;
+          const mouseY = e.clientY;
+          
+          particles.forEach(particle => {
+            const rect = particle.getBoundingClientRect();
+            const particleX = rect.left + rect.width / 2;
+            const particleY = rect.top + rect.height / 2;
+            
+            const distance = Math.sqrt(
+              Math.pow(mouseX - particleX, 2) + 
+              Math.pow(mouseY - particleY, 2)
+            );
+            
+            if (distance < 100) {
+              const force = (100 - distance) / 100;
+              const angle = Math.atan2(mouseY - particleY, mouseX - particleX);
+              
+              particle.style.transform = `translate(${Math.cos(angle) * force * 15}px, ${Math.sin(angle) * force * 15}px) scale(1.3)`;
+            } else {
+              particle.style.transform = 'scale(1)';
+            }
+          });
+        });
+        
+        // 初始化
+        setTimeout(createConnectors, 100); // 延迟确保元素已渲染
+        
+        // 窗口调整时更新连接线
+        window.addEventListener('resize', function() {
+          createConnectors();
+        });
+      });
+    </script>
   </body>
 </html>
