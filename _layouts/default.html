@@ -10,31 +10,34 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      /* 强制确保粒子背景在最底层且可见 */
-      #particles-js {
-        position: fixed !important;
-        top: 0 !important;
-        left: 0 !important;
-        width: 100% !important;
-        height: 100% !important;
-        z-index: -9999 !important; /* 使用极低的z-index确保在最底层 */
+      /* 测试用的纯色背景 - 如果这个能显示，说明我们的修改是有效的 */
+      body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(45deg, red, blue, green, yellow);
+        z-index: -1;
+        animation: testBackground 5s infinite;
       }
       
-      /* 强制确保所有页面内容在背景之上 */
-      body > *:not(#particles-js) {
-        position: relative !important;
-        z-index: 1 !important;
+      @keyframes testBackground {
+        0% { opacity: 1; }
+        50% { opacity: 0.5; }
+        100% { opacity: 1; }
       }
     </style>
   </head>
 
   <body>
-    <!-- 粒子背景容器 -->
-    <div id="particles-js"></div>
-    
-    <!-- 原有页面结构保持不变 -->
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    <!-- 简单的测试文字 -->
+    <div style="position: relative; z-index: 1; background: rgba(255,255,255,0.9); padding: 20px; margin: 20px;">
+      <h1>🔍 背景测试页面</h1>
+      <p>如果您能看到这个彩色的动态背景，说明我们的修改生效了。</p>
+      <p>如果看不到，说明有更深层次的问题。</p>
+    </div>
 
     {{ content }}
 
@@ -46,70 +49,5 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
-    <!-- 使用多个CDN源确保加载成功 -->
-    <script>
-      // 尝试多个CDN源，确保至少一个能加载
-      function loadParticlesJS() {
-        var sources = [
-          'https://cdn.bootcdn.net/ajax/libs/particles.js/2.0.0/particles.min.js',
-          'https://cdn.staticfile.net/particles.js/2.0.0/particles.min.js',
-          'https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js'
-        ];
-        
-        var loaded = false;
-        
-        function tryLoad(index) {
-          if (index >= sources.length || loaded) return;
-          
-          var script = document.createElement('script');
-          script.src = sources[index];
-          script.onload = function() {
-            if (!loaded) {
-              loaded = true;
-              initParticles();
-            }
-          };
-          script.onerror = function() {
-            tryLoad(index + 1);
-          };
-          document.head.appendChild(script);
-        }
-        
-        tryLoad(0);
-      }
-      
-      function initParticles() {
-        if (typeof particlesJS === 'function') {
-          particlesJS('particles-js', {
-            "particles": {
-              "number": { "value": 80, "density": { "enable": true, "value_area": 800 } },
-              "color": { "value": "#aaccff" },
-              "shape": { "type": "circle" },
-              "opacity": { "value": 0.5 },
-              "size": { "value": 3, "random": true },
-              "line_linked": {
-                "enable": true,
-                "distance": 150,
-                "color": "#aaccff",
-                "opacity": 0.4,
-                "width": 1
-              }, 
-              "move": { "enable": true, "speed": 2, "direction": "none" }
-            },
-            "interactivity": {
-              "events": {
-                "onhover": { "enable": true, "mode": "grab" },
-                "onclick": { "enable": true, "mode": "push" }
-              }
-            }
-          });
-          console.log('粒子背景加载成功！');
-        }
-      }
-      
-      // 页面加载后执行
-      document.addEventListener('DOMContentLoaded', loadParticlesJS);
-    </script>
   </body>
 </html>
