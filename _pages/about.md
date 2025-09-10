@@ -130,71 +130,35 @@ redirect_from:
 * [13] 一种针对印制电路板产品Gerber文件的元器件同步缩放与快速定位软件, 2024SR0727690，苏州大学, 沈纲祥, **于文博**, 软著, 2024, 授权
 * [14] 基于深度学习的COVID-19的检测软件, 2023SR0241919，苏州大学, 丁维新, **于文博**, 软著, 2023, 授权
 
-
-
-
-
-
-#### 2025级（3人）
-1. 王晨辉  
-2. 彭飞  
-3. 左天舒
-
-#### 2024级（2人）
-1. 任天鸣：光谱重建  
-2. 张洪展：多源融合
-
-#### 2023级（2人）
-1. 魏新桐：多源融合（中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）
-
-**中科院一区顶刊2篇：**
-- \[1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," *IEEE Transactions on Geoscience and Remote Sensing*, vol. xx, pp. 1-14, 2025.  
-- \[2] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-13, 2024.
-
-**授权发明专利2项：**
-- \[1] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权  
-- \[2] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
-
-**省部级项目1项：**
-- 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 [名单](https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html)
-
-2. 徐鑫：异常检测（期刊论文1篇）
-
-**期刊论文1篇：**
-- \[1] Xin Xu, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," *Journal of Applied Remote Sensing*, vol. xx, pp. 1-xx, 2025.
-
-
-
-
-
 硕士研究生
 ======
 ### 2025级（3人）
-1. 王晨辉<br>
-2. 彭飞<br>
+1. 王晨辉
+2. 彭飞
 3. 左天舒
 
 ### 2024级（2人）
-1. 任天鸣：光谱重建<br>
+1. 任天鸣：光谱重建
 2. 张洪展：多源融合
 
 ### 2023级（2人）
 1. 魏新桐：多源融合（中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）
 
 **中科院一区顶刊2篇:**
-* [1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.
-* [2] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
+- \[1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.
+- \[2] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
 
 **授权发明专利2项:**
-* [1] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
-* [2] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
+- \[1] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
+- \[2] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
 
 **省部级项目1项:**
-* 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]
+- 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]
+
 2. 徐鑫：异常检测（期刊论文1篇）
 
 **期刊论文1篇:**
-* [1] Xin Xu, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2025.
+- \[1] Xin Xu, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2025.
 
 本科生活动汇总
 ======
