@@ -178,7 +178,14 @@ Hyperspectral and LiDAR Image Joint Classification," Chinese Control Conference 
 
 <details>
 <summary><strong>徐鑫</strong>：异常检测</summary>
-<p><em>（可在此添加徐鑫同学的研究成果介绍）</em></p>
+<ul>
+    <li>
+        <strong>期刊论文1篇:</strong>
+        <ul>
+            <li>Xin Xv, <strong>Wenbo Yu*</strong>, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2025.</li>
+        </ul>
+    </li>
+</ul>
 </details>
 
 </details>
