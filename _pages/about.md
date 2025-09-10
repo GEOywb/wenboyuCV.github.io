@@ -9,7 +9,7 @@ redirect_from:
 
 苏州大学电子信息学院讲师（助理研究员），硕士生导师，江苏省双创博士，江苏省科协青托工程对象，苏州市科协青托工程对象，2016年于哈尔滨工业大学航天学院自动化专业获学士学位，2021年于哈尔滨工业大学航天学院控制科学与工程专业获博士学位（硕博连读，沈毅教授团队），2019年-2020年于荷兰代尔夫特理工大学EEMCS学院博士联合培养（Marcel J.T. Reinders教授与Ahmed Mahfouz助理教授团队），2021年加入苏州大学电子信息学院智能信控所。
 
-**每年招收硕士研究生<font color=red> 3 </font>人**（欢迎对以下方向感兴趣的同学联系：多模态遥感解译，计算机视觉，视觉机械臂控制及路径规划）。
+**每年招收硕士研究生<font color=red> 3 </font>人**（欢迎对以下方向感兴趣的同学联系：多模态遥感解译，计算机视觉，机械臂控制及路径规划）。
 
 研究领域
 ======
@@ -17,7 +17,7 @@ redirect_from:
 2. 高光谱/高分遥感信息处理 Hyperspectral/VHR remote sensing information processing
 3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
-5. 视觉机械臂控制及路径规划 Computer vision and robot control
+5. 机械臂控制及路径规划 Robotic arm control and path planning
 
 教育经历
 ======
@@ -169,7 +169,7 @@ redirect_from:
         <strong>中科院一区顶刊2篇:</strong>
         <ul>
             <li>[1] Xintong Wei, <strong>Wenbo Yu*</strong>, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.</li>
-            <li>[2] Xintong Wei, <strong>Wenbo Yu*</strong>, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024, doi: <a href="https://doi.org/10.1109/TGRS.2024.3504861">10.1109/TGRS.2024.3504861</a></li>
+            <li>[2] Xintong Wei, <strong>Wenbo Yu*</strong>, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.</li>
         </ul>
     </li>
     <li>
