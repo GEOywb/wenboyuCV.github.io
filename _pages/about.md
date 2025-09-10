@@ -145,9 +145,9 @@ redirect_from:
 <details>
 <summary><strong>2025级（3人）</strong></summary>
 <ul>
-    <li>王晨辉</li>
-    <li>彭飞</li>
-    <li>左天舒</li>
+    <li><strong>王晨辉</strong></li>
+    <li><strong>彭飞</strong></li>
+    <li><strong>左天舒</strong></li>
 </ul>
 </details>
 
