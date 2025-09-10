@@ -11,28 +11,32 @@ redirect_from:
 
 **每年招收硕士研究生<font color=red> 3 </font>人**（欢迎对以下方向感兴趣的同学联系：多模态遥感解译，计算机视觉，机械臂控制及路径规划）。
 
-研究领域
+## 研究领域
 ======
+
 1. 多源遥感 Multi-source remote sensing
 2. 高光谱/高分遥感信息处理 Hyperspectral/VHR remote sensing information processing
 3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
 5. 机械臂控制及路径规划 Robotic arm control and path planning
 
-教育经历
+## 教育经历
 ======
+
 1. 学士，哈尔滨工业大学，航天学院，自动化，2012.09-2016.06
 2. 硕士（硕博连读），哈尔滨工业大学，航天学院，控制科学与工程，2016.09-2017.06
 3. 博士，哈尔滨工业大学，航天学院，控制科学与工程，2017.09-2021.10
 4. 联培博士，荷兰，代尔夫特理工大学，EEMCS学院，2019.09-2020.09
 
-工作经历
+## 工作经历
 ======
+
 1. 讲师（助理研究员），苏州大学，电子信息学院，2021.11 至今
 2. 访问学者，遥感科学国家重点实验室，2023.08-2025.07
 
-科研项目
+## 科研项目
 ======
+
 1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持
 2. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
 3. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授（中国科学院空天信息创新研究院），基金号：OFSLRSS202302，主持
@@ -43,8 +47,9 @@ redirect_from:
 8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持
 9. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请
 
-荣誉及奖励
+## 荣誉及奖励
 ======
+
 1. 2022年度中国遥感优秀成果二等奖（1/3），2023-08-15
 2. 江苏省科协青年科技人才托举工程，省部级，2024-09-01
 3. 苏州市科协青年科技人才托举工程，市厅级，2024-06-01
@@ -54,15 +59,17 @@ redirect_from:
 7. 2023年度学院发展贡献奖教金，2024-03-01
 8. “课程思政”教学比赛三等奖，2023-12-15
 
-社会职务
+## 社会职务
 ======
+
 1. 中国图像图形学会CSIG遥感图像专业委员会成员
 2. 中国图像图形学会CSIG企业联络与标准化工作委员会成员
 3. IEEE/中国电子学会/中国人工智能学会（青工委CAAI）/中国图像图形学会CSIG/江苏省人工智能学会会员
 4. IEEE TNNLS、IEEE TGRS、IEEE GRSL、IEEE TIM、KBS、NN等期刊长期审稿人
 
-期刊论文
+## 期刊论文
 ======
+
 **2025年**  
 * [1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-14, 2025.
 * [2] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
@@ -100,8 +107,9 @@ redirect_from:
 **2018年**  
 * [21] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Combined FATEMD-based Band Selection Method for Hyperspectral Images", <em>IET Image Processing</em>, vol. 13, No. 2, pp. 287-298, 2018.
 
-会议论文
+## 会议论文
 ======
+
 <details>
 <summary><strong>查看会议论文列表（共10篇）</strong></summary>
 <ul>
@@ -119,8 +127,9 @@ redirect_from:
 </details>
 
 
-专利与软著
+## 专利与软著
 ======
+
 <details>
 <summary><strong>查看专利与软著列表（共14项）</strong></summary>
 <ul>
@@ -142,8 +151,9 @@ redirect_from:
 </details>
 
 
-硕士研究生
+## 硕士研究生
 ======
+
 <details>
 <summary><strong>2025级（3人）</strong></summary>
 <ul>
@@ -202,8 +212,9 @@ redirect_from:
 </details>
 
 
-本科生活动汇总
+## 本科生活动汇总
 ======
+
 2023级电信1班班主任
 
 <details>
@@ -237,7 +248,8 @@ redirect_from:
 </details>
 
 
-开授课程
+## 开授课程
 ======
+
 1. 自动控制原理，本科生（第六学期）
 2. 工程管理与环境，本科生（第五学期）
