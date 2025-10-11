@@ -144,13 +144,14 @@ redirect_from:
 - **张洪展**：多源融合
 
 **2023级（2人）**
-- **魏新桐**：多源融合（中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）
+- **魏新桐**：多源融合（国奖1项，中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）
 
-- \[1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.
-- \[2] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
-- \[3] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
-- \[4] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
-- \[5] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]
+- \[1] 2025年研究生国家奖学金
+- \[2] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.
+- \[3] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
+- \[4] 遥感高光谱图像与合成孔径雷达图像融合分类方法及装置, ZL 2025 1 0729176.9, 苏州大学, 广东省国土资源技术中心（广东省基础地理信息中心）, **于文博**, 魏新桐, 刘锐, 发明专利, 2025, 授权
+- \[5] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
+- \[6] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]
 
 - **徐鑫**：异常检测（期刊论文1篇）
 
