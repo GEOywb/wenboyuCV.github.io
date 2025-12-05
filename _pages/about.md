@@ -34,16 +34,15 @@ redirect_from:
 
 科研项目
 ======
-1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，
-# 基金号：62401384，主持
-3. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
-4. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授（中国科学院空天信息创新研究院），基金号：OFSLRSS202302，主持
-5. **遥感与数字地球全国重点实验室开放课题**，智能协同的高光谱与激光雷达影像无监督增量融合分类，合作人：张立强教授（北京师范大学），基金号：OFSLRSS202522，主持
-6. **自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金**（Technology Innovation Center for Collaborative Applications of Natural Resources Data in GBA, MNR），基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，合作人：刘锐研究员（广东省国土资源技术中心），基金号：2025NRDK02，主持 
-7. **福建省空间信息感知与智能处理重点实验室开放基金**（Open Project of Fujian Key Laboratory of Spatial Information Perception and Intelligent Processing (Yango University）），城市动态监测中高光谱遥感图像的时空谱协同分类研究，2万，2024.01.01-2025.01.01，合作人：黄风华教授（阳光学院），基金号：FKLSIPIP1014，主持
-8. **江苏省高等学校自然科学研究项目**（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持
-9. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持
-10. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请
+1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持，在研
+3. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持，结题
+4. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.07.31，基金号：OFSLRSS202302，主持，结题
+5. **遥感与数字地球全国重点实验室开放课题**（Open Fund of State Key Laboratory of Remote Sensing and Digital Earth），智能协同的高光谱与激光雷达影像无监督增量融合分类，6万，2025.10.01-2027.09.30，基金号：OFSLRSS202522，主持，在研
+6. **自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金**（Technology Innovation Center for Collaborative Applications of Natural Resources Data in GBA, MNR），基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，基金号：2025NRDK02，主持
+7. **福建省空间信息感知与智能处理重点实验室开放基金**（Open Project of Fujian Key Laboratory of Spatial Information Perception and Intelligent Processing (Yango University）），城市动态监测中高光谱遥感图像的时空谱协同分类研究，2万，2024.01.01-2025.01.01，基金号：FKLSIPIP1014，主持，结题
+8. **江苏省高等学校自然科学研究项目**（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持，结题
+9. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持，结题
+10. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请，结题
 
 荣誉及奖励
 ======
@@ -58,11 +57,11 @@ redirect_from:
 
 社会职务
 ======
-1. 《宇航学报》青年编委（EI，2026.01-2028.12）
+1. 《宇航学报》青年编委（EI，2026.01.01-2028.12.30）
 2. 中国图像图形学会CSIG遥感图像专业委员会成员
 3. 中国图像图形学会CSIG企业联络与标准化工作委员会成员
 4. IEEE/中国电子学会/中国人工智能学会（青工委CAAI）/中国图像图形学会CSIG/江苏省人工智能学会会员
-5. IEEE TNNLS、IEEE TGRS、IEEE GRSL、IEEE TIM、KBS、NN等期刊长期审稿人
+5. IEEE TPAMI、IEEE TNNLS、IEEE TGRS、IEEE GRSL、IEEE TIM、KBS、NN、RS等期刊长期审稿人
 
 期刊论文
 ======
@@ -71,7 +70,7 @@ redirect_from:
 * [2] **Wenbo Yu**, He Huang*, Yi Shen, Lin Sun, Chongran Zhao and Gangxiang Shen, "IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-13, 2025. [推文](https://mp.weixin.qq.com/s/O0_lGlBW9RwMCTyyNtlJfA)
 * [3] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
 * [4] Jiahui Huang, **Wenbo Yu***, Hongzhan Zhang, Xintong Wei and Yinbiao Lu, "S2GCCFN: Shared-Specific Graph Construction Oriented Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
-* [5] Xin Xv, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2025.
+* [5] Xin Xv, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. 19, no. 3, pp. 036508, 2025.
 
 **2024年**  
 * [6] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
@@ -184,4 +183,5 @@ redirect_from:
 开授课程
 ======
 1. 自动控制原理，本科生（第六学期）
-2. 工程管理与环境，本科生（第五学期）
+2. 人工智能导论，本科生（第二学期）
+3. 工程管理与环境，本科生（第五学期）
