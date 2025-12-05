@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-苏州大学电子信息学院副教授（副研究员），硕士生导师，江苏省双创博士，江苏省科协青托工程对象，苏州市科协青托工程对象，2016年于哈尔滨工业大学航天学院自动化专业获学士学位，2021年于哈尔滨工业大学航天学院控制科学与工程专业获博士学位（硕博连读，沈毅教授团队），2019年-2020年于荷兰代尔夫特理工大学EEMCS学院博士联合培养（Marcel J.T. Reinders教授与Ahmed Mahfouz助理教授团队），2021年加入苏州大学电子信息学院智能信控所。
+苏州大学电子信息学院副教授，硕士生导师，江苏省双创博士，江苏省科协青托工程对象，苏州市科协青托工程对象，2016年于哈尔滨工业大学航天学院自动化专业获学士学位，2021年于哈尔滨工业大学航天学院控制科学与工程专业获博士学位（硕博连读，沈毅副校长团队），2019年-2020年于荷兰代尔夫特理工大学EEMCS学院博士联合培养（Marcel J.T. Reinders教授与Ahmed Mahfouz助理教授团队），2021年加入苏州大学电子信息学院智能信控所。
 
 **每年招收硕士研究生<font color=red> 3 </font>人**（欢迎对以下方向感兴趣的同学联系：多模态遥感解译，计算机视觉，机械臂控制及路径规划）。
 
 研究领域
 ======
 1. 多源遥感 Multi-source remote sensing
-2. 高光谱/高分遥感信息处理 Hyperspectral/VHR remote sensing information processing
+2. 高光谱/高分/红外/雷达遥感信息处理 Hyperspectral/VHR/Infrared/LiDAR remote sensing information processing
 3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
 5. 机械臂控制及路径规划 Robotic arm control and path planning
@@ -28,13 +28,13 @@ redirect_from:
 
 工作经历
 ======
-1. 副教授（副研究员），苏州大学，电子信息学院，2025.07 至今
-2. 讲师（助理研究员），苏州大学，电子信息学院，2021.11-2025.07
-3. 访问学者，遥感科学国家重点实验室，2023.08-2025.07
+1. 副教授，苏州大学，电子信息学院，2025.07 至今
+2. 讲师，苏州大学，电子信息学院，2021.11-2025.07
+3. 访问学者，遥感科学国家重点实验室，2023.08-2027.07
 
 科研项目
 ======
-1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持
+1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，%基金号：62401384，主持
 2. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
 3. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授（中国科学院空天信息创新研究院），基金号：OFSLRSS202302，主持
 4. **遥感与数字地球全国重点实验室开放课题**，智能协同的高光谱与激光雷达影像无监督增量融合分类，合作人：张立强教授（北京师范大学），基金号：OFSLRSS202522，主持
