@@ -34,7 +34,7 @@ redirect_from:
 
 科研项目
 ======
-1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，##基金号：62401384，主持
+1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，"""基金号：62401384，主持"""
 2. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持
 3. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.7.31，合作人：高连如教授（中国科学院空天信息创新研究院），基金号：OFSLRSS202302，主持
 4. **遥感与数字地球全国重点实验室开放课题**，智能协同的高光谱与激光雷达影像无监督增量融合分类，合作人：张立强教授（北京师范大学），基金号：OFSLRSS202522，主持
