@@ -18,6 +18,7 @@ redirect_from:
 3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
 5. 机械臂控制及路径规划 Robotic arm control and path planning
+   
 <details>
 <summary>点击查看详细内容</summary>
 展开的内容
