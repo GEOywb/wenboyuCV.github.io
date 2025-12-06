@@ -15,9 +15,13 @@ redirect_from:
 ======
 1. 多源遥感 Multi-source remote sensing
 2. 高光谱/高分/红外/雷达遥感信息处理 Hyperspectral/VHR/Infrared/LiDAR remote sensing information processing
-[//]: 3. 模式识别与机器学习 Pattern recognition and machine learning
+3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
 5. 机械臂控制及路径规划 Robotic arm control and path planning
+<details>
+<summary>点击查看详细内容</summary>
+展开的内容
+</details>
 
 教育经历
 ======
