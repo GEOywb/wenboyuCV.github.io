@@ -17,7 +17,7 @@ redirect_from:
 2. 高光谱/高分/红外/雷达遥感信息处理 Hyperspectral/VHR/Infrared/LiDAR remote sensing information processing
 3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
- 5. 机械臂控制及路径规划 Robotic arm control and path planning
+# 5. 机械臂控制及路径规划 Robotic arm control and path planning
 
 教育经历
 ======
@@ -53,8 +53,6 @@ redirect_from:
 # 7. **江苏省高等学校自然科学研究项目**（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持，结题
 # 8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持，结题
 # 9. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请，结题
-
-# 9. 苏州市科技发展计划面上项目（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请，结题
 
 荣誉及奖励
 ======
