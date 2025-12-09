@@ -17,12 +17,7 @@ redirect_from:
 2. 高光谱/高分/红外/雷达遥感信息处理 Hyperspectral/VHR/Infrared/LiDAR remote sensing information processing
 3. 模式识别与机器学习 Pattern recognition and machine learning
 4. 光谱重建与生成模型 Spectral reconstruction and generative model
-# 5. 机械臂控制及路径规划 Robotic arm control and path planning
-   
-<details>
-<summary>点击查看详细内容</summary>
-展开的内容
-</details>
+ 5. 机械臂控制及路径规划 Robotic arm control and path planning
 
 教育经历
 ======
@@ -39,16 +34,26 @@ redirect_from:
 
 科研项目
 ======
-1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持，在研
-3. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持，结题
-4. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.07.31，基金号：OFSLRSS202302，主持，结题
-5. **遥感与数字地球全国重点实验室开放课题**（Open Fund of State Key Laboratory of Remote Sensing and Digital Earth），智能协同的高光谱与激光雷达影像无监督增量融合分类，6万，2025.10.01-2027.09.30，基金号：OFSLRSS202522，主持，在研
-6. **自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金**（Technology Innovation Center for Collaborative Applications of Natural Resources Data in GBA, MNR），基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，基金号：2025NRDK02，主持
-7. **福建省空间信息感知与智能处理重点实验室开放基金**（Open Project of Fujian Key Laboratory of Spatial Information Perception and Intelligent Processing (Yango University）），城市动态监测中高光谱遥感图像的时空谱协同分类研究，2万，2024.01.01-2025.01.01，基金号：FKLSIPIP1014，主持，结题
-8. **江苏省高等学校自然科学研究项目**（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持，结题
-9. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持，结题
-10. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请，结题
+1. **国家自然科学基金青年项目**，30万，主持
+2. **江苏省自然科学基金青年项目**，20万，主持
+3. **国重室开放项目**，6万，主持
+4. **国重室开放项目**，6万，主持
+5. **省重室开放项目**，6万，主持
+6. **省重室开放项目**，2万，主持
+7. **江苏省高等学校自然科学研究项目**，3万，主持
+8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持
+9. **苏州市科技发展计划面上项目**，20万，合作申请
 
+# 1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持，在研
+# 2. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持，结题
+# 3. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.07.31，基金号：OFSLRSS202302，主持，结题
+# 4. **遥感与数字地球全国重点实验室开放课题**（Open Fund of State Key Laboratory of Remote Sensing and Digital Earth），智能协同的高光谱与激光雷达影像无监督增量融合分类，6万，2025.10.01-2027.09.30，基金号：OFSLRSS202522，主持，在研
+# 5. **自然资源部粤港澳大湾区自然资源数据协同应用工程技术创新中心开放基金**（Technology Innovation Center for Collaborative Applications of Natural Resources Data in GBA, MNR），基于深度学习网络的SAR到光图像可视化及其目标检测研究，6万，2025.01.01-2026.11.30，基金号：2025NRDK02，主持
+# 6. **福建省空间信息感知与智能处理重点实验室开放基金**（Open Project of Fujian Key Laboratory of Spatial Information Perception and Intelligent Processing (Yango University）），城市动态监测中高光谱遥感图像的时空谱协同分类研究，2万，2024.01.01-2025.01.01，基金号：FKLSIPIP1014，主持，结题
+# 7. **江苏省高等学校自然科学研究项目**（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持，结题
+# 8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持，结题
+# 9. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请，结题
+    
 荣誉及奖励
 ======
 1. 2022年度中国遥感优秀成果二等奖（1/3），2023-08-15
@@ -141,9 +146,15 @@ redirect_from:
 硕士研究生
 ======
 **2025级（3人）**
-- **王晨辉**
-- **彭飞**
-- **左天舒**
+<details>
+<summary>- **王晨辉**</summary>
+</details>
+<details>
+<summary>- **彭飞**</summary>
+</details>
+<details>
+<summary>- **左天舒**</summary>
+</details>
 
 **2024级（2人）**
 - **任天鸣**：光谱重建
