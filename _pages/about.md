@@ -45,9 +45,6 @@ redirect_from:
 9. **苏州市科技发展计划面上项目**，20万，合作申请
 
 <!-- 旧内容开始
-这部分内容暂时隐藏
-旧内容结束 -->
-
 1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持，在研
 2. **江苏省自然科学基金青年项目**（The Natural Science Foundation of Jiangsu Province of China），基于轻量级联合稀疏表示的Stokes偏振高光谱异常目标检测新方法研究，20万，2022.07.01-2025.06.30，基金号：BK20220486，主持，结题
 3. **遥感科学国家重点实验室开放基金**（Open Fund of State Key Laboratory of Remote Sensing Science），基于机理—学习模型的高光谱与LiDAR图像融合方法研究，6万，2023.08.01-2025.07.31，基金号：OFSLRSS202302，主持，结题
@@ -57,7 +54,7 @@ redirect_from:
 7. **江苏省高等学校自然科学研究项目**（The Natural Science Foundation of the Jiangsu Higher Education Institutions of China），基于流形特性分析的高光谱图像浅层及深层信息挖掘研究，3万，2022.07.01-2024.06.01，基金号：22KJB510042，主持，结题
 8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持，结题
 9. **苏州市科技发展计划面上项目**（The Suzhou Science and Technology Project），基于注意力模型的目标重识别技术在视频监控分析领域的关键技术应用研究，20万，基金号：2022SS46，合作申请，结题
-
+旧内容结束 -->
 
 荣誉及奖励
 ======
