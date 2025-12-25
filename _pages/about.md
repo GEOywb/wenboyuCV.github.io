@@ -34,15 +34,15 @@ redirect_from:
 
 科研项目
 ======
-1. **国家自然科学基金青年项目**，30万，主持
-2. **江苏省自然科学基金青年项目**，20万，主持
-3. **国重室开放项目**，6万，主持
-4. **国重室开放项目**，6万，主持
-5. **省重室开放项目**，6万，主持
-6. **省重室开放项目**，2万，主持
-7. **江苏省高等学校自然科学研究项目**，3万，主持
-8. **江苏省科协青年科技人才托举工程**&**苏州市科协青年科技人才托举工程**，2万，主持
-9. **苏州市科技发展计划面上项目**，20万，合作申请
+1. 国家自然科学基金青年项目，30万，主持
+2. 江苏省自然科学基金青年项目，20万，主持
+3. 国重室开放项目，6万，主持
+4. 国重室开放项目，6万，主持
+5. 省重室开放项目，6万，主持
+6. 省重室开放项目，2万，主持
+7. 江苏省高等学校自然科学研究项目，3万，主持
+8. 江苏省科协青年科技人才托举工程&苏州市科协青年科技人才托举工程，2万，主持
+9. 苏州市科技发展计划面上项目，20万，合作申请
 
 <!-- 旧内容开始
 1. **国家自然科学基金青年项目**（National Natural Science Foundation of China），面向带状复种长势监测的异构农业遥感影像无监督增量融合分类，30万，2025.01.01-2027.12.31，基金号：62401384，主持，在研
@@ -158,7 +158,7 @@ redirect_from:
 
 
 **2023级（2人）**
-- **魏新桐**：多源融合（国奖1项，中科院一区顶刊2篇，授权发明专利2项，省部级项目1项）
+- **魏新桐**：多源融合（国奖1项，中科院一区顶刊2篇，授权发明专利2项，省部级项目1项，第18届学生标兵宣讲团）
 - \[1] 2025年研究生国家奖学金
 - \[2] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, pp. 1-14, 2025.
 - \[3] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
