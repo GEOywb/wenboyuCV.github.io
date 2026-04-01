@@ -78,42 +78,46 @@ redirect_from:
 期刊论文
 ======
 **2025年**  
-* [1] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-14, 2025.
-* [2] **Wenbo Yu**, He Huang*, Yi Shen, Lin Sun, Chongran Zhao and Gangxiang Shen, "IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-13, 2025. [推文](https://mp.weixin.qq.com/s/O0_lGlBW9RwMCTyyNtlJfA)
-* [3] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
-* [4] Jiahui Huang, **Wenbo Yu***, Hongzhan Zhang, Xintong Wei and Yinbiao Lu, "S2GCCFN: Shared-Specific Graph Construction Oriented Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
-* [5] Xin Xv, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. 19, no. 3, pp. 036508, 2025.
+* [1] Zhengyu Li, **Wenbo Yu***, Yinbiao Lu, "WMCFN: Wavelet-enhanced multi-scale cross-modal fusion network for hyperspectral and LiDAR data fusion," <em>	Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2026.
+* [2] Shijun Wei, **Wenbo Yu***, "	PA3-Net: a prior-guided adaptive attention and alignment network for cross-scene hyperspectral image classification," <em>	Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2026.
+
+**2025年**  
+* [3] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-14, 2025.
+* [4] **Wenbo Yu**, He Huang*, Yi Shen, Lin Sun, Chongran Zhao and Gangxiang Shen, "IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-13, 2025. [推文](https://mp.weixin.qq.com/s/O0_lGlBW9RwMCTyyNtlJfA)
+* [5] Yinbiao Lu, **Wenbo Yu***, Xintong Wei and Jiahui Huang, "AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
+* [6] Jiahui Huang, **Wenbo Yu***, Hongzhan Zhang, Xintong Wei and Yinbiao Lu, "S2GCCFN: Shared-Specific Graph Construction Oriented Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 22, pp. 1-5, 2025.
+* [7] Xin Xv, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. 19, no. 3, pp. 036508, 2025.
 
 **2024年**  
-* [6] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
-* [7] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," <em>IEEE Transactions on Instrumentation and Measurement</em>, vol. 73, pp. 1-16, 2024. [推文](https://mp.weixin.qq.com/s/x-enckAxAcj98RPbdlbhAg)
-* [8] **Wenbo Yu**, He Huang*, Yi Shen and Gangxiang Shen, "Crossmodal Sequential Interaction Network for Hyperspectral and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 21, pp. 1-5, 2024.
-* [9] **Wenbo Yu**, Fenghua Huang*, "DMSCA: Deep Multi-Scale Crossmodal Attention Network for Hyperspectral and LiDAR Data Fusion and Joint Classification", <em>Journal of Applied Remote Sensing</em>, vol. 18, no. 3, pp. 036505, 2024.
+* [8] Xintong Wei, **Wenbo Yu***, He Huang, Lin Sun, Chongran Zhao and Gangxiang Shen, "MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 62, pp. 1-13, 2024.
+* [9] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures," <em>IEEE Transactions on Instrumentation and Measurement</em>, vol. 73, pp. 1-16, 2024. [推文](https://mp.weixin.qq.com/s/x-enckAxAcj98RPbdlbhAg)
+* [10] **Wenbo Yu**, He Huang*, Yi Shen and Gangxiang Shen, "Crossmodal Sequential Interaction Network for Hyperspectral and LiDAR Data Joint Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 21, pp. 1-5, 2024.
+* [11] **Wenbo Yu**, Fenghua Huang*, "DMSCA: Deep Multi-Scale Crossmodal Attention Network for Hyperspectral and LiDAR Data Fusion and Joint Classification", <em>Journal of Applied Remote Sensing</em>, vol. 18, no. 3, pp. 036505, 2024.
 
 **2023年**  
-* [10] **Wenbo Yu**, He Huang*, Miao Zhang, Yi Shen and Gangxiang Shen, "Shadow Mask-Driven Multimodal Intrinsic Image Decomposition for Hyperspectral and LiDAR Data Fusion," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 61, pp. 1-15, 2023. [推文](https://mp.weixin.qq.com/s/mUnRz5SRm0Zypk81gsbOxQ)
-* [11] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "HI2D2FNet: Hyperspectral Intrinsic Image Decomposition Guided Data Fusion Network for Hyperspectral and LiDAR Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 61, pp. 1-15, 2023. **[2022-2023年度苏州市自然科学优秀学术论文三等奖]** [推文](https://mp.weixin.qq.com/s/Nhb3IL3AMKcWxmdC_nZtFw)
-* [12] Weixin Ding, **Wenbo Yu***, "Targeted Self-supervised Attention Network for Coronavirus Disease 2019 Detection", <em>Journal of Electronic Imaging</em>, vol. 32, No. 3, pp. 033008, 2023.
-* [13] Huanhuan Li, **Wenbo Yu**, He Huang*, "Strengthening Transferability of Adversarial Examples by Adaptive Inertia and Amplitude Spectrum Dropout", <em>Neural Networks</em>, pp. 925-937, 2023.
+* [12] **Wenbo Yu**, He Huang*, Miao Zhang, Yi Shen and Gangxiang Shen, "Shadow Mask-Driven Multimodal Intrinsic Image Decomposition for Hyperspectral and LiDAR Data Fusion," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 61, pp. 1-15, 2023. [推文](https://mp.weixin.qq.com/s/mUnRz5SRm0Zypk81gsbOxQ)
+* [13] **Wenbo Yu**, Lianru Gao, He Huang*, Yi Shen and Gangxiang Shen, "HI2D2FNet: Hyperspectral Intrinsic Image Decomposition Guided Data Fusion Network for Hyperspectral and LiDAR Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 61, pp. 1-15, 2023. **[2022-2023年度苏州市自然科学优秀学术论文三等奖]** [推文](https://mp.weixin.qq.com/s/Nhb3IL3AMKcWxmdC_nZtFw)
+* [14] Weixin Ding, **Wenbo Yu***, "Targeted Self-supervised Attention Network for Coronavirus Disease 2019 Detection", <em>Journal of Electronic Imaging</em>, vol. 32, No. 3, pp. 033008, 2023.
+* [15] Huanhuan Li, **Wenbo Yu**, He Huang*, "Strengthening Transferability of Adversarial Examples by Adaptive Inertia and Amplitude Spectrum Dropout", <em>Neural Networks</em>, pp. 925-937, 2023.
 
 **2022年**  
-* [14] **Wenbo Yu**, He Huang* and Gangxiang Shen, "Deep Spectral–Spatial Feature Fusion-Based Multiscale Adaptable Attention Network for Hyperspectral Feature Extraction," <em>IEEE Transactions on Instrumentation and Measurement</em>, vol. 72, pp. 1-13, 2023.
-* [15] **Wenbo Yu**, Miao Zhang and He Huang*, "Accelerated Adaptive Feature Balance Technique Based on TEMD for Hyperspectral Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 19, pp. 1-5, 2022.
-* [16] **Wenbo Yu**, He Huang* and Gangxiang Shen, "Multilevel Dual-Direction Modifying Variational Autoencoders for Hyperspectral Feature Extraction," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 19, pp. 1-5, 2022.
-* [17] **Wenbo Yu**, Miao Zhang, He Huang*, Yi Shen, Gangxiang Shen, "Learning Latent Local Manifold Embeddings for Hyperspectral Feature Extraction", <em>Journal of Applied Remote Sensing</em>, vol. 16, No. 3, pp. 036513, 2022.
+* [16] **Wenbo Yu**, He Huang* and Gangxiang Shen, "Deep Spectral–Spatial Feature Fusion-Based Multiscale Adaptable Attention Network for Hyperspectral Feature Extraction," <em>IEEE Transactions on Instrumentation and Measurement</em>, vol. 72, pp. 1-13, 2023.
+* [17] **Wenbo Yu**, Miao Zhang and He Huang*, "Accelerated Adaptive Feature Balance Technique Based on TEMD for Hyperspectral Classification," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 19, pp. 1-5, 2022.
+* [18] **Wenbo Yu**, He Huang* and Gangxiang Shen, "Multilevel Dual-Direction Modifying Variational Autoencoders for Hyperspectral Feature Extraction," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. 19, pp. 1-5, 2022.
+* [19] **Wenbo Yu**, Miao Zhang, He Huang*, Yi Shen, Gangxiang Shen, "Learning Latent Local Manifold Embeddings for Hyperspectral Feature Extraction", <em>Journal of Applied Remote Sensing</em>, vol. 16, No. 3, pp. 036513, 2022.
 
 **2021年**  
-* [18] **Wenbo Yu**, Miao Zhang*, Zhi He and Yi Shen, "Convolutional Two-Stream Generative Adversarial Network-Based Hyperspectral Feature Extraction," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 60, pp. 1-10, 2022.
-* [19] **Wenbo Yu**, Ahmed Mahfouz*, Marcel J. T. Reinders*, "CBA: Cluster-Guided Batch Alignment for Single Cell RNA-seq", <em>Frontiers in Genetics</em>, vol. 12, 2021.
+* [20] **Wenbo Yu**, Miao Zhang*, Zhi He and Yi Shen, "Convolutional Two-Stream Generative Adversarial Network-Based Hyperspectral Feature Extraction," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 60, pp. 1-10, 2022.
+* [21] **Wenbo Yu**, Ahmed Mahfouz*, Marcel J. T. Reinders*, "CBA: Cluster-Guided Batch Alignment for Single Cell RNA-seq", <em>Frontiers in Genetics</em>, vol. 12, 2021.
 
 **2020年**  
-* [20] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Spatial Revising Variational Autoencoder-Based Feature Extraction Method for Hyperspectral Images," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 59, no. 2, pp. 1410-1423, 2021.
+* [22] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Spatial Revising Variational Autoencoder-Based Feature Extraction Method for Hyperspectral Images," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 59, no. 2, pp. 1410-1423, 2021.
 
 **2019年**  
-* [21] **Wenbo Yu**, Miao Zhang*, Yi Shen, "Learning a Local Manifold Representation based on Improved Neighborhood Rough Set and LLE for Hyperspectral Dimensionality Reduction", <em>Signal Processing</em>, vol. 164, pp. 20-29, 2019.
+* [23] **Wenbo Yu**, Miao Zhang*, Yi Shen, "Learning a Local Manifold Representation based on Improved Neighborhood Rough Set and LLE for Hyperspectral Dimensionality Reduction", <em>Signal Processing</em>, vol. 164, pp. 20-29, 2019.
 
 **2018年**  
-* [22] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Combined FATEMD-based Band Selection Method for Hyperspectral Images", <em>IET Image Processing</em>, vol. 13, No. 2, pp. 287-298, 2018.
+* [24] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Combined FATEMD-based Band Selection Method for Hyperspectral Images", <em>IET Image Processing</em>, vol. 13, No. 2, pp. 287-298, 2018.
 
 会议论文
 ======
