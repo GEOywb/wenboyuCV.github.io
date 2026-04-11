@@ -77,9 +77,10 @@ redirect_from:
 
 期刊论文
 ======
-**2025年**  
+<!-- 旧内容开始
 * [1] Zhengyu Li（本科生）, **Wenbo Yu***, Yinbiao Lu, "WMCFN: Wavelet-enhanced multi-scale cross-modal fusion network for hyperspectral and LiDAR data fusion," <em>	Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2026.
 * [2] Shijun Wei（本科生）, **Wenbo Yu***, "	PA3-Net: a prior-guided adaptive attention and alignment network for cross-scene hyperspectral image classification," <em>	Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2026.
+旧内容结束 -->
 
 **2025年**  
 * [3] Xintong Wei, **Wenbo Yu***, Rui Liu, Min Ma, Chongran Zhao and Gangxiang Shen, "HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. 63, pp. 1-14, 2025.
