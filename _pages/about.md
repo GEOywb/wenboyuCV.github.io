@@ -80,9 +80,11 @@ redirect_from:
 期刊论文
 ======
 * [1] Pengbo Liang (本科生), **Wenbo Yu***, Junru Zhao (本科生), "P2LACBC: Parallel Per-Level Attention with Cross-Branch Consistency for Remote Sensing Object Detection," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. xx, pp. 1-5, 2026.
+
 <!-- 旧内容开始
 * [2] Zhengyu Li (本科生), **Wenbo Yu***, Yinbiao Lu (本科生), "WMCFN: Wavelet-enhanced multi-scale cross-modal fusion network for hyperspectral and LiDAR data fusion," <em>	Journal of Applied Remote Sensing</em>, vol. 20, no. 2, pp. 021414, 2026.
 旧内容结束 -->
+
 * [3] Shijun Wei (本科生), **Wenbo Yu***, "	PA3-Net: a prior-guided adaptive attention and alignment network for cross-scene hyperspectral image classification," <em>	Journal of Applied Remote Sensing</em>, vol. 20, no. 2, pp. 026509, 2026.
 
 **2025年**  
