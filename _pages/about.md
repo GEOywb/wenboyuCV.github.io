@@ -169,12 +169,10 @@ redirect_from:
 
 **2024级（2人）**
 - **任天鸣**：光谱重建
-
-[//]: # (- \[1] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于光谱解混先验的 RGB 图像光谱超分辨率重建方法研究，0.8万，2026.03.01-2027.03.01，基金号：暂无，主持)
+- \[1] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于光谱解混先验的 RGB 图像光谱超分辨率重建方法研究，2026.03.01-2027.03.01，基金号：暂无，主持
  
 - **张洪展**：多源融合
-
-[//]: # (- \[1] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），多源遥感影像协同下的地物目标检测与识别方法研究，0.8万，2026.03.01-2027.03.01，基金号：暂无，主持)
+- \[1] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），多源遥感影像协同下的地物目标检测与识别方法研究，2026.03.01-2027.03.01，基金号：暂无，主持
 
 **2023级（2人）**
 - **魏新桐**：多源融合（国奖1项，中科院一区顶刊2篇，授权发明专利2项，省部级项目1项，第18届学生标兵宣讲团，毕业去向：武汉大学读博）
