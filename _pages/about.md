@@ -142,7 +142,7 @@ redirect_from:
 * [11] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", <em>Chinese Society for Optical Engineering Conferences</em>, 2017.
 * [12] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," <em>International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Beijing, China, pp. 5075-5078, 2016.
 * [13] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，<em>上海航天</em>，pp. 27-32，2017.
-
+ 
 专利与软著
 ======
 * [1] 一种高光谱图像与激光雷达图像融合分类方法及装置, 2024116422721, 苏州大学, **于文博**, 陆银标, 魏新桐, 发明专利, 2025, 授权
