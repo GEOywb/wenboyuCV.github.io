@@ -130,16 +130,18 @@ redirect_from:
 会议论文
 ======
 * [1] Luyang Lyu (本科生), **Wenbo Yu***, Rui Liu, "MambaFuser: Mamba State Space Model based Hyperspectral and LiDAR Data Classification," <em>Chinese Control Conference (CCC)</em>, Changsha, China, 2026.
-* [2] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.
-* [3] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.
-* [4] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," <em>Chinese Control Conference (CCC)</em>, Tianjin, China, pp. 7417-7420, 2023.
-* [5] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 3555-3558, 2018.
-* [6] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," <em>Chinese Control Conference (CCC)</em>, Dalian, China, pp. 11468-11471, 2017.
-* [7] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," <em>Data Driven Control and Learning Systems Conference (DDCLS)</em>, Xiangtan, China, pp. 1233-1238, 2023.
-* [8] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 4701-4704, 2018.
-* [9] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", <em>Chinese Society for Optical Engineering Conferences</em>, 2017.
-* [10] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," <em>International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Beijing, China, pp. 5075-5078, 2016.
-* [11] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，<em>上海航天</em>，pp. 27-32，2017.
+* [2] Xinyi Jia (本科生), **Wenbo Yu***, Rui Liu, "DAM-Net: A Dual Attention Mechanism Network for Single-Frame Infrared Small Target Detection," <em>Chinese Control Conference (CCC)</em>, Changsha, China, 2026.
+* [3] Shengkun Dai (本科生), **Wenbo Yu***, Rui Liu, "SeRankNet: A Selective Rank-Aware Attention Network for Infrared Small Target Detection," <em>Chinese Control Conference (CCC)</em>, Changsha, China, 2026.
+* [4] **Wenbo Yu***, Miao Zhang, "Multi-perspective Regional Continuity Alignment Network for Hyperspectral and LiDAR Image Fusion and Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.
+* [5] **Wenbo Yu***, Miao Zhang, "Cross-modal Three-dimensional Intrinsic Image Decomposition for Hyperspectral and LiDAR Image Joint Classification," <em>Chinese Control Conference (CCC)</em>, Kunming, China, 2024.
+* [6] **Wenbo Yu***, He Huang, Miao Zhang and Yi Shen, "Stacked Dual-stream LSTM based Feature Extraction Network for Hyperspectral Image Classification," <em>Chinese Control Conference (CCC)</em>, Tianjin, China, pp. 7417-7420, 2023.
+* [7] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Learning a Stable Local Manifold Representation for Hyperspectral Linear Dimensionality Reduction," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 3555-3558, 2018.
+* [8] **Wenbo Yu**, Miao Zhang* and Yi Shen, "Mutual Information and Clone Selection Algorithm based Hyperspectral Band Selection Method," <em>Chinese Control Conference (CCC)</em>, Dalian, China, pp. 11468-11471, 2017.
+* [9] Jun Wang, **Wenbo Yu** and He Huang*, "Adaptive Quasi-Newton Algorithm for Remote Sensing," <em>Data Driven Control and Learning Systems Conference (DDCLS)</em>, Xiangtan, China, pp. 1233-1238, 2023.
+* [10] Miao Zhang*, **Wenbo Yu** and Yi Shen, "Three-Dimensional Empirical Mode Decomposition Based Hyperspectral Band Selection Method," <em>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Valencia, Spain, pp. 4701-4704, 2018.
+* [11] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, and Yi Shen, "Hyperspectral Image Feature Extraction Method based on Sparse Constraint Convolutional Neural Network", <em>Chinese Society for Optical Engineering Conferences</em>, 2017.
+* [12] Peiyuan Jia, Miao Zhang*, **Wenbo Yu**, Fei Shen and Yi Shen, "Convolutional Neural Network based Classification for Hyperspectral Data," <em>International Geoscience and Remote Sensing Symposium (IGARSS)</em>, Beijing, China, pp. 5075-5078, 2016.
+* [13] 张淼*，**于文博**，沈飞，谢长生，沈毅，“基于改进Hough算法的高光谱数据直线检测方法研究”，<em>上海航天</em>，pp. 27-32，2017.
 
 专利与软著
 ======
@@ -161,14 +163,20 @@ redirect_from:
 硕士研究生
 ======
 **2025级（3人）**
-- **王晨辉**
-- **彭飞**
-- **左天舒**
+- **王晨辉**：机械臂控制
+- **彭飞**：目标识别
+- **左天舒**：多源融合
 
 **2024级（2人）**
 - **任天鸣**：光谱重建
-- **张洪展**：多源融合
+<!-- 旧内容开始
+- \[1] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于光谱解混先验的 RGB 图像光谱超分辨率重建方法研究，0.8万，2026.03.01-2027.03.01，基金号：暂无，主持 <a 
+旧内容结束 -->
 
+- **张洪展**：多源融合
+<!-- 旧内容开始
+- \[1] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），多源遥感影像协同下的地物目标检测与识别方法研究，0.8万，2026.03.01-2027.03.01，基金号：暂无，主持 <a 
+旧内容结束 -->
 
 **2023级（2人）**
 - **魏新桐**：多源融合（国奖1项，中科院一区顶刊2篇，授权发明专利2项，省部级项目1项，第18届学生标兵宣讲团，毕业去向：武汉大学读博）
@@ -180,23 +188,27 @@ redirect_from:
 - \[6] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于协同表征模型的高光谱与LiDAR影像融合分类，1.5万，2025.03.01-2026.03.01，基金号：KYCX25_3462，主持 <a href="https://jyt.jiangsu.gov.cn/art/2025/5/19/art_58370_11571419.html">[名单]
 
 - **徐鑫**：异常检测（期刊论文1篇，毕业去向：星宇车灯）
-- \[1] Xin Xu, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. xx, pp. 1-xx, 2025.
+- \[1] Xin Xv, **Wenbo Yu***, Rui Liu, "MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection," <em>Journal of Applied Remote Sensing</em>, vol. 19, no. 3, pp. 036508, 2025.
 
 本科生活动汇总
 ======
 **2023级电信1班班主任**
 
-**䇹政基金项目1项**
+**䇹政基金项目**
 * [1] 融合谱段-空间物理知识的多波段红外小目标小样本识别技术研究，䇹政基金项目，贾欣怡，2026，在研
 
-**大学生创新创业项目3项**
-* [1] 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研，1 IEEE GRSL
-* [2] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，结题，1 IEEE GRSL，1发明专利
-* [3] 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1发明专利，1软著
+**大学生创新创业项目**
+* [1] 地学机理约束下耦合径向流场先验与学习模型的多模态遥感融合分类，大学生创新创业项目（省级），吕陆扬，吴浩翔、贾欣怡、俞成博、殷乐怡，2026，在研，2 EI
+* [2] 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研，1 IEEE GRSL
+* [3] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，结题（优秀），1 IEEE GRSL，1发明专利
+* [4] 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1发明专利，1软著
 
-**大学生课外学术科研基金2项**
+**大学生课外学术科研基金**
 * [1] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，第二十六批大学生课外学术科研基金（重点项目），陆银标，徐彤彤，2024，结题（合格）
 * [2] 复杂非均匀光照场景中高光谱与LiDAR图像跨域融合与地物解译研究，第二十五批大学生课外学术科研基金（一般项目），陈笑，2023，结题（合格）
+
+**其他**
+* [1] “英格玛杯”苏州大学大学生创新大赛，碳盾天眼-星-机-地一体化油田气体泄漏智能检测系统，吕陆扬等，于文博，由骁迪，郁连国，郭晓雯，二等奖，2026.
 
 开授课程
 ======
