@@ -81,15 +81,11 @@ redirect_from:
      
 期刊论文
 ======
-<!-- 旧内容开始
 * [1] Chengbo Yu (本科生), **Wenbo Yu***, Min Ma, Yi Shen, Liqiang Zhang, "Geo-∆SSM: Geometry-Conditioned ∆-Modulated Selective SSM Network for Hyperspectral and LiDAR Joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, no. xx, pp. xx, 2026.
-旧内容结束 -->
 
 * [2] Pengbo Liang (本科生), **Wenbo Yu***, Junru Zhao (本科生), "P2LACBC: Parallel Per-Level Attention with Cross-Branch Consistency for Remote Sensing Object Detection," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. xx, pp. 1-5, 2026.
 
-<!-- 旧内容开始
 * [3] Zhengyu Li (本科生), **Wenbo Yu***, Yinbiao Lu (本科生), "WMCFN: Wavelet-enhanced multi-scale cross-modal fusion network for hyperspectral and LiDAR data fusion," <em>	Journal of Applied Remote Sensing</em>, vol. 20, no. 2, pp. 021414, 2026.
-旧内容结束 -->
 
 * [4] Shijun Wei (本科生), **Wenbo Yu***, "	PA3-Net: a prior-guided adaptive attention and alignment network for cross-scene hyperspectral image classification," <em>	Journal of Applied Remote Sensing</em>, vol. 20, no. 2, pp. 026509, 2026.
 
