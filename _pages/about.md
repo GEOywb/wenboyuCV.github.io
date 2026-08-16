@@ -81,6 +81,7 @@ redirect_from:
      
 期刊论文
 ======
+**2026年** 
 * [1] Chengbo Yu, **Wenbo Yu***, Min Ma, Yi Shen, Liqiang Zhang, "Geo-∆SSM: Geometry-Conditioned ∆-Modulated Selective SSM Network for Hyperspectral and LiDAR Joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, no. xx, pp. xx, 2026.
 
 * [2] Pengbo Liang, **Wenbo Yu***, Junru Zhao, "P2LACBC: Parallel Per-Level Attention with Cross-Branch Consistency for Remote Sensing Object Detection," <em>IEEE Geoscience and Remote Sensing Letters</em>, vol. xx, pp. 1-5, 2026.
