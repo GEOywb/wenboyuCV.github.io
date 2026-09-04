@@ -171,10 +171,10 @@ redirect_from:
 - **左天舒**：多源融合
 
 **2024级（2人）**
-- **任天鸣**：光谱重建
+- **任天鸣**：光谱重建（省部级项目1项）
 - \[1] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），基于光谱解混先验的 RGB 图像光谱超分辨率重建方法研究，2026.03.01-2027.03.01，基金号：26CXJH5910，主持
  
-- **张洪展**：多源融合（中科院一区顶刊1篇）
+- **张洪展**：多源融合（中科院一区顶刊1篇，省部级项目1项）
 - \[1] Hongzhan Zhang, **Wenbo Yu***, Liqiang Zhang, Rui Liu, Min Ma, Baoqing Nie, "GenMSLnet: Generative Modality-Specific Learning Enhanced Collaborative Fusion Network for Hyperspectral and SAR Joint Classification," <em>IEEE Transactions on Geoscience and Remote Sensing</em>, vol. xx, no. xx, pp. xx, 2026.
 - \[2] 江苏省研究生科研创新计划（Postgraduate Research & Practice Innovation Program of Jiangsu Province），多源遥感影像协同下的地物目标检测与识别方法研究，2026.03.01-2027.03.01，基金号：26CXJH5909，主持
   
