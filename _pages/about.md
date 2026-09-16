@@ -132,6 +132,7 @@ redirect_from:
 
 会议论文
 ======
+* [1] Jie Cao, **Wenbo Yu***, "Cross-Class Externality-Aware Pseudo-Label Evaluation Method for PolSAR Classification," <em>China Automation Conference (CAC)</em>, Beijing, China, 2026.
 * [1] Luyang Lyu, **Wenbo Yu***, Rui Liu, "MambaFuser: Mamba State Space Model based Hyperspectral and LiDAR Data Classification," <em>Chinese Control Conference (CCC)</em>, Changsha, China, 2026.
 * [2] Xinyi Jia, **Wenbo Yu***, Rui Liu, "DAM-Net: A Dual Attention Mechanism Network for Single-Frame Infrared Small Target Detection," <em>Chinese Control Conference (CCC)</em>, Changsha, China, 2026.
 * [3] Shengkun Dai, **Wenbo Yu***, Rui Liu, "SeRankNet: A Selective Rank-Aware Attention Network for Infrared Small Target Detection," <em>Chinese Control Conference (CCC)</em>, Changsha, China, 2026.
@@ -165,6 +166,11 @@ redirect_from:
 
 硕士研究生
 ======
+**2026级（3人）**
+- **于亚南**
+- **韩清亚**
+- **梁岩**
+
 **2025级（3人）**
 - **王晨辉**：机械臂控制
 - **彭飞**：目标识别
@@ -195,11 +201,11 @@ redirect_from:
 **2023级电信1班班主任**
 
 **䇹政基金项目**
-* [1] 融合谱段-空间物理知识的多波段红外小目标小样本识别技术研究，䇹政基金项目，贾欣怡，2026，在研
+* [1] 融合谱段-空间物理知识的多波段红外小目标小样本识别技术研究，䇹政基金项目，贾欣怡，2026，在研，1 EI
 
 **大学生创新创业项目**
-* [1] 地学机理约束下耦合径向流场先验与学习模型的多模态遥感融合分类，大学生创新创业项目（省级），吕陆扬，吴浩翔、贾欣怡、俞成博、殷乐怡，2026，在研，2 EI
-* [2] 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研，1 IEEE GRSL
+* [1] 地学机理约束下耦合径向流场先验与学习模型的多模态遥感融合分类，大学生创新创业项目（省级），吕陆扬，吴浩翔、贾欣怡、俞成博、殷乐怡，2026，在研，1 IEEE TGRS，2 EI
+* [2] 泛知识图谱驱动同化表征的异源遥感影像智能融合分类，大学生创新创业项目（国家级），黄佳慧，闫文涛，赵君茹，梁彭博，2025，在研，2 IEEE GRSL
 * [3] 面向农业病虫害检测的高光谱与激光雷达影像融合分类，大学生创新创业项目（国家级），陆银标，徐彤彤，任金晨，汤可锞，朱文馨，2024，结题（优秀），1 IEEE GRSL，1发明专利
 * [4] 基于深度学习的COVID-19检测算法的设计与实现，大学生创新创业项目（省级），丁维新，2022，结题（合格），1 JEI，1发明专利，1软著
 
